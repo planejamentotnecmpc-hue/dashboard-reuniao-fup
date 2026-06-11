@@ -141,7 +141,7 @@ body.daltonico .perf-badge.r{background:rgba(213,94,0,.12);color:var(--farol-ver
 /* MODAL */
 .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.48);z-index:200;display:flex;align-items:center;justify-content:center;padding:20px;opacity:0;transition:opacity .2s;pointer-events:none;}
 .modal-backdrop.open{opacity:1;pointer-events:all;}
-.modal-card{background:var(--white);border-radius:14px;box-shadow:0 24px 70px rgba(0,0,0,.28);width:100%;max-width:min(96vw,1400px);max-height:92vh;display:flex;flex-direction:column;overflow:hidden;transform:translateY(18px);transition:transform .22s;}
+.modal-card{background:var(--white);border-radius:14px;box-shadow:0 24px 70px rgba(0,0,0,.28);width:100%;max-width:min(96vw,1400px);max-height:96vh;display:flex;flex-direction:column;overflow:hidden;transform:translateY(18px);transition:transform .22s;}
 .modal-backdrop.open .modal-card{transform:translateY(0);}
 
 .modal-header{display:flex;align-items:flex-start;gap:14px;padding:16px 20px 12px;border-bottom:1px solid var(--gray-line);flex-shrink:0;}
@@ -465,6 +465,7 @@ async function loadData(){
 
 // ===== Util =====
 function esc(s){if(s==null)return'';return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function autoGrow(ta){ta.style.height='auto';ta.style.height=ta.scrollHeight+'px';}
 function showToast(msg,type='ok'){
   const c=document.getElementById('toast-container');
   const el=document.createElement('div');el.className=`toast toast-${type}`;el.textContent=msg;
@@ -1026,7 +1027,10 @@ function openModal(p,knownIdx){
       </div>
     </div>
   `;
-  setTimeout(()=>{renderScurve(p);renderFases(p);},30);
+  setTimeout(()=>{
+    renderScurve(p);renderFases(p);
+    document.querySelectorAll('#modal-body textarea.editable-field').forEach(autoGrow);
+  },30);
   document.getElementById('modal-backdrop').classList.add('open');
 }
 function closeModal(){
@@ -1144,6 +1148,11 @@ function downloadMeta(){
     });
     setupUpload();
     document.getElementById('btn-export-edits').addEventListener('click',downloadMeta);
+
+    // ===== AUTO-AJUSTE DE ALTURA DOS CAMPOS DE TEXTO =====
+    document.getElementById('modal-body').addEventListener('input',e=>{
+      if(e.target.tagName==='TEXTAREA'&&e.target.classList.contains('editable-field'))autoGrow(e.target);
+    });
 
     // ===== SALVAR EDIÇÕES DO MODAL =====
     document.getElementById('modal-body').addEventListener('focusout',e=>{
