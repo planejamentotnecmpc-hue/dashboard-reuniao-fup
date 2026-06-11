@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-05-22T16:28:45Z",
+    "generatedAt":  "2026-06-11T17:33:21.850Z",
     "source":  "source.xlsm",
     "summary":  {
                     "totalProjetos":  77,
@@ -49,7 +49,7 @@
                          "escopo":  "Aquisição e instalação de 4 equipamentos laboratoriais (AOX, Nebulizador Ultrassônico, Concentrador de Ácido e Prensa de Refino) para garantir a continuidade operacional e reduzir custos com análises externas e reagentes.",
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
-                         "fasePrincipal":  "Execução",
+                         "fasePrincipal":  "Encerramento",
                          "situacaoAtual":  "Aquisições",
                          "respEngenharia":  "Everton Menezes da Silva (Cmpc Brasil)",
                          "gerenteDemandante":  "Diego Tramontini",
@@ -72,10 +72,10 @@
                                        "dataFimPlan":  "2026-02-06"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na entrega do equipamento CETAK",
-                         "principaisAtividades":  "Chegada do Cetak no dia 20/05",
-                         "comentarioMensal":  "Cetak entregue no dia 20/05/26",
-                         "pontosAtencao":  "Realizado follow up com suprimentos semanalmente para verificação da entrega. Equipamento já está em trânsito. Previsão de chegada em Junho/26.",
+                         "justificativaDesvio":  "Sem desvios",
+                         "principaisAtividades":  "Cetak instalado, emitida e arquivada documentação de encerramento do projeto.",
+                         "comentarioMensal":  "Cetak instalado, emitida e arquivada documentação de encerramento do projeto.",
+                         "pontosAtencao":  "Projeto encerrado.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -170,7 +170,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-05"
                      },
                      {
                          "id":  2,
@@ -190,9 +191,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.3701,
+                         "previstoPct":  0.4,
                          "realPct":  0.4,
-                         "desvio":  0.029900000000000038,
+                         "desvio":  0,
                          "farol":  "verde",
                          "dataFim":  "2026-12-08",
                          "mostrar":  true,
@@ -258,7 +259,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-12-08"
                      },
                      {
                          "id":  3,
@@ -272,15 +274,15 @@
                          "fasePrincipal":  "Execução",
                          "situacaoAtual":  "Implantação",
                          "respEngenharia":  "Everton Menezes da Silva (Cmpc Brasil)",
-                         "gerenteDemandante":  "Silvia Souza",
+                         "gerenteDemandante":  "Milton Ricardo Machado",
                          "coordManutencao":  "Deborah Luz",
                          "equipeComissionamento":  "",
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.35,
+                         "previstoPct":  0.3966,
                          "realPct":  0.45,
-                         "desvio":  0.10000000000000003,
+                         "desvio":  0.0534,
                          "farol":  "verde",
                          "dataFim":  "2026-10-13",
                          "mostrar":  true,
@@ -292,9 +294,9 @@
                                        "dataFimPlan":  "2026-08-03"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Seem desvios",
-                         "principaisAtividades":  "Realizada reuião de KOM com a implantação em 21/05. Início das montagens com início previsto para Junho",
-                         "comentarioMensal":  "Realizada reuião de KOM com a implantação em 21/05. Início das montagens com início previsto para Junho",
+                         "justificativaDesvio":  "Sem desvios",
+                         "principaisAtividades":  "Em andamento as atividades de engenharia;\nEm andamento as adequações e montagens de linha de vida pela empresa Acesso;\nMontadora mecânica  aguardando finalização da engenharia para montagem na CR2, Peneiramento e Plataforma de Hipo",
+                         "comentarioMensal":  "Em andamento as atividades de engenharia;\nEm andamento as adequações e montagens de linha de vida pela empresa Acesso;\nMontadora mecânica  aguardando finalização da engenharia para montagem na CR2, Peneiramento e Plataforma de Hipo",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -346,7 +348,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-10-13"
                      },
                      {
                          "id":  4,
@@ -366,9 +369,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.2208,
+                         "previstoPct":  0.2727,
                          "realPct":  0.2208,
-                         "desvio":  0,
+                         "desvio":  -0.0519,
                          "farol":  "verde",
                          "dataFim":  "2026-12-22",
                          "mostrar":  true,
@@ -381,9 +384,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Em andamento processo de contratação da montadora",
-                         "comentarioMensal":  "Em andamento processo de contratação da montadora",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "principaisAtividades":  "Alteração do termo de abertura;\nElaboração da Especificação técnica;\nCriação e aprovação da RC para contrato do projeto civil.",
+                         "comentarioMensal":  "Alteração do termo de abertura;\nElaboração da Especificação técnica;\nCriação e aprovação da RC para contrato do projeto civil.",
+                         "pontosAtencao":  "Contratação do projeto civil e posteriormente da construtora.\nEm andamento elaboração do cronograma atualizado.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -434,7 +437,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-12-22"
                      },
                      {
                          "id":  5,
@@ -454,9 +458,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.8448,
+                         "previstoPct":  0.855,
                          "realPct":  0.8448,
-                         "desvio":  0,
+                         "desvio":  -0.010199999999999987,
                          "farol":  "verde",
                          "dataFim":  "2026-10-05",
                          "mostrar":  true,
@@ -469,8 +473,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Emitida SM devido a saída da montadora de contrato fixo, sendo necessário uam nova contratação.",
-                         "comentarioMensal":  "Emitida SM devido a saída da montadora de contrato fixo, sendo necessário uam nova contratação.",
+                         "principaisAtividades":  "Em andamento processo de contratação de nova montadora",
+                         "comentarioMensal":  "Em andamento processo de contratação de nova montadora",
                          "pontosAtencao":  "Sem pontos de atenção.",
                          "curva":  {
                                        "meses":  [
@@ -522,7 +526,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-10-05"
                      },
                      {
                          "id":  6,
@@ -672,7 +677,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-19"
                      },
                      {
                          "id":  7,
@@ -706,7 +712,7 @@
                                        "dataFimPlan":  "2026-04-23"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso Siemens na finalização das ações do Punch List",
+                         "justificativaDesvio":  "Sem desvios",
                          "principaisAtividades":  "Atualização dos documentos e entrega das licenças pendentes.",
                          "comentarioMensal":  "Atualização dos documentos e entrega das licenças pendentes.",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -760,7 +766,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-02"
                      },
                      {
                          "id":  8,
@@ -892,14 +899,15 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-09"
                      },
                      {
                          "id":  9,
                          "code":  "GB-2024-0033",
                          "anoImplantacao":  2026,
-                         "projeto":  "ATUALIZAÇÃO TECNOLÓGICA SISTEMA DE AUTOMAÇÃO G2",
-                         "nome":  "ATUALIZAÇÃO TECNOLÓGICA SISTEMA DE AUTOMAÇÃO G2",
+                         "projeto":  "Atualização Tecnológica sistema de automação G2",
+                         "nome":  "Atualização Tecnológica sistema de automação G2",
                          "escopo":  "Os sistemas de automação da planta CMPC Guaíba necessitam de atualizações para melhorar a cibersegurança, prevenindo invasões cibernéticas e falhas que possam comprometer os processos produtivos.",
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
@@ -912,9 +920,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9839,
+                         "previstoPct":  0.9951,
                          "realPct":  0.9824,
-                         "desvio":  -0.0014999999999999458,
+                         "desvio":  -0.012699999999999934,
                          "farol":  "amarelo",
                          "dataFim":  "2026-08-14",
                          "mostrar":  true,
@@ -927,9 +935,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Atraso na montagem",
-                         "principaisAtividades":  "Finalização das atividades de parada da Schineider",
-                         "comentarioMensal":  "Finalização das atividades de parada da Schineider",
-                         "pontosAtencao":  "Instalação de servidor e system one em rotina (Bentley Nevada)",
+                         "principaisAtividades":  "Execução de punchlist",
+                         "comentarioMensal":  "Execução de punchlist",
+                         "pontosAtencao":  "Lista de Pendências não Impeditiva aguardando assinatura do Supervisor de Manutenção: Jeferson Garcia Santos",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -1042,21 +1050,22 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-08-14"
                      },
                      {
                          "id":  10,
                          "code":  "GB-2024-0041",
                          "anoImplantacao":  2026,
-                         "projeto":  "Chuveiros de alta pressão do Kamyr",
-                         "nome":  "Chuveiros de alta pressão do Kamyr",
-                         "escopo":  "O projeto envolve a aquisição e instalação de chuveiros oscilatórios com automatização de válvulas e instrumentação nos filtros Kamyr 1 e 2, visando aumentar a pressão de alimentação e melhorar a eficiência operacional, reduzindo perdas de produção e riscos de acidentes.",
+                         "projeto":  "Chuveiros de alte pressão do Kamyr",
+                         "nome":  "Chuveiros de alte pressão do Kamyr",
+                         "escopo":  "#N/A",
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
                          "fasePrincipal":  "Execução",
                          "situacaoAtual":  "Implantação",
                          "respEngenharia":  "Marcelo Custodio Stahl (Cmpc Brasil)",
-                         "gerenteDemandante":  "Marco Aurélio Alves",
+                         "gerenteDemandante":  "Antônio Souza",
                          "coordManutencao":  "Jair Soares",
                          "equipeComissionamento":  "",
                          "classificacao":  "",
@@ -1076,9 +1085,9 @@
                                        "dataFimPlan":  "2026-05-11"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na finalização da documentação de encerramento do projeto.",
-                         "principaisAtividades":  "Em andamento a documentação de encerramento do projeto",
-                         "comentarioMensal":  "Em andamento a documentação de encerramento do projeto",
+                         "justificativaDesvio":  "Atraso na finalização do projeto.",
+                         "principaisAtividades":  "Emissão de RC para elaboração do projeto da Plataforma e RC de contratação de fabricação do Suporte do Mangote",
+                         "comentarioMensal":  "Emissão de RC para elaboração do projeto da Plataforma e RC de contratação de fabricação do Suporte do Mangote",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -1192,15 +1201,16 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-01"
                      },
                      {
                          "id":  11,
                          "code":  "GB-2025-0042",
                          "anoImplantacao":  2026,
-                         "projeto":  "Parada Segura",
-                         "nome":  "Parada Segura",
-                         "escopo":  "O projeto visa desenvolver a engenharia básica para a instalação de geradores na planta G1 da CMPC Guaíba, garantindo uma parada segura em casos de blackout.A implementação desse sistema proporcionará maior segurança e confiabilidade nas operações da planta.",
+                         "projeto":  "Black Start em Guaíba",
+                         "nome":  "Black Start em Guaíba",
+                         "escopo":  "#N/A",
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
                          "fasePrincipal":  "Iniciação",
@@ -1226,7 +1236,7 @@
                                        "dataFimPlan":  "2025-12-11"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na entrega de engenharia detalhada.",
+                         "justificativaDesvio":  "Atraso na execução de engenharia detalhada.",
                          "principaisAtividades":  "Execução de engenharia detalhada.",
                          "comentarioMensal":  "Execução de engenharia detalhada.",
                          "pontosAtencao":  "Previsão de entrega da engenharia para Junho/26.",
@@ -1378,7 +1388,8 @@
                                            "pctReal":  0.5175,
                                            "desvio":  0.50079999999999991
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-07"
                      },
                      {
                          "id":  12,
@@ -1398,9 +1409,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9948,
+                         "previstoPct":  0.9983,
                          "realPct":  0.8415,
-                         "desvio":  -0.1533,
+                         "desvio":  -0.15679999999999994,
                          "farol":  "vermelho",
                          "dataFim":  "2026-08-25",
                          "mostrar":  true,
@@ -1413,9 +1424,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Atraso na montagem das defensas em campo.",
-                         "principaisAtividades":  "Montagem em andamento com finalização prevista em 20/05.",
-                         "comentarioMensal":  "Montagem em andamento com finalização prevista em 30/05.",
-                         "pontosAtencao":  "Solicitado plano de ação junto a contratada, estratégia visa a finalização do projeto em Maio/26.",
+                         "principaisAtividades":  "Iniciado processo de emissão de documentação de encerramento do projeto.",
+                         "comentarioMensal":  "Iniciado processo de emissão de documentação de encerramento do projeto.",
+                         "pontosAtencao":  "Montagem finalizada em campo.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -1519,7 +1530,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-08-25"
                      },
                      {
                          "id":  13,
@@ -1539,9 +1551,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9946,
+                         "previstoPct":  1,
                          "realPct":  0.9945,
-                         "desvio":  -9.9999999999988987E-05,
+                         "desvio":  -0.0054999999999999494,
                          "farol":  "amarelo",
                          "dataFim":  "2026-05-29",
                          "mostrar":  true,
@@ -1553,9 +1565,9 @@
                                        "dataFimPlan":  "2026-05-22"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
+                         "justificativaDesvio":  "Atraso no envio de as built e data-book pela empresa contratada.",
                          "principaisAtividades":  "Aguardando envio da documentação pela contratada.",
-                         "comentarioMensal":  "Aguardando envio da documentação final pela contratada.",
+                         "comentarioMensal":  "Aguardando envio da documentação pela contratada.",
                          "pontosAtencao":  "Avaliação da documentação para encerramento do projeto.",
                          "curva":  {
                                        "meses":  [
@@ -1660,7 +1672,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-05-29"
                      },
                      {
                          "id":  14,
@@ -1680,9 +1693,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9936,
+                         "previstoPct":  0.9948,
                          "realPct":  0.925,
-                         "desvio":  -0.0686,
+                         "desvio":  -0.069799999999999973,
                          "farol":  "vermelho",
                          "dataFim":  "2026-07-07",
                          "mostrar":  true,
@@ -1748,7 +1761,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-07"
                      },
                      {
                          "id":  15,
@@ -1768,9 +1782,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.6678,
+                         "previstoPct":  0.6775,
                          "realPct":  0.9752,
-                         "desvio":  0.3074,
+                         "desvio":  0.29769999999999996,
                          "farol":  "verde",
                          "dataFim":  "2026-06-18",
                          "mostrar":  true,
@@ -1783,9 +1797,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Em andamento comissionamento do filtro, sendo necessário modificar a válvula existente. Previsão de finalização em Junho/26.",
-                         "comentarioMensal":  "Em andamento comissionamento do filtro, sendo necessário modificar a válvula existente. Previsão de finalização em Junho/26.",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "principaisAtividades":  "Finalizado comissionamento do filtro",
+                         "comentarioMensal":  "Finalizado comissionamento do filtro",
+                         "pontosAtencao":  "Em verificação da escala entre turno da Operação para realização do treinamento",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -1836,7 +1850,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-18"
                      },
                      {
                          "id":  16,
@@ -1856,9 +1871,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9944,
+                         "previstoPct":  1,
                          "realPct":  0.9996,
-                         "desvio":  0.0052000000000000934,
+                         "desvio":  -0.00039999999999995595,
                          "farol":  "verde",
                          "dataFim":  "2026-05-30",
                          "mostrar":  true,
@@ -1977,7 +1992,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-05-30"
                      },
                      {
                          "id":  17,
@@ -1997,9 +2013,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9205,
+                         "previstoPct":  0.9363,
                          "realPct":  0.882,
-                         "desvio":  -0.038499999999999979,
+                         "desvio":  -0.054300000000000015,
                          "farol":  "amarelo",
                          "dataFim":  "2026-11-26",
                          "mostrar":  true,
@@ -2014,7 +2030,7 @@
                          "justificativaDesvio":  "Em andamento engenharia detalhada.",
                          "principaisAtividades":  "Engenharia detalhada",
                          "comentarioMensal":  "Engenharia detalhada",
-                         "pontosAtencao":  "Nova apresentação em comitê de Junho.",
+                         "pontosAtencao":  "Nova apresentação em comitê de Agosto.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -2065,7 +2081,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-11-26"
                      },
                      {
                          "id":  18,
@@ -2085,9 +2102,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.832,
+                         "previstoPct":  0.9931,
                          "realPct":  0.94,
-                         "desvio":  0.10799999999999998,
+                         "desvio":  -0.053100000000000036,
                          "farol":  "verde",
                          "dataFim":  "2026-06-12",
                          "mostrar":  true,
@@ -2100,9 +2117,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Monatgem em campo com previsão de finalização em Maio/26.",
-                         "comentarioMensal":  "Monatgem em campo com previsão de finalização em Maio/26.",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "principaisAtividades":  "Monatgem em campo com previsão de finalização em Junho/26",
+                         "comentarioMensal":  "Monatgem em campo com previsão de finalização em Junho/26",
+                         "pontosAtencao":  "Atividades impactadas pela Parada da CR2",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -2153,7 +2170,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-12"
                      },
                      {
                          "id":  19,
@@ -2187,7 +2205,7 @@
                                        "dataFimPlan":  "2026-01-06"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso no envio de data book da contratada.",
+                         "justificativaDesvio":  "Sem desvios",
                          "principaisAtividades":  "Execução de pendências",
                          "comentarioMensal":  "Execução de pendências",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -2303,7 +2321,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-11"
                      },
                      {
                          "id":  20,
@@ -2323,9 +2342,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0521,
+                         "previstoPct":  0.0715,
                          "realPct":  0.0521,
-                         "desvio":  0,
+                         "desvio":  -0.019399999999999994,
                          "farol":  "verde",
                          "dataFim":  "2028-04-12",
                          "mostrar":  true,
@@ -2391,7 +2410,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2028-04-12"
                      },
                      {
                          "id":  21,
@@ -2411,9 +2431,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9715,
+                         "previstoPct":  1,
                          "realPct":  0.7625,
-                         "desvio":  -0.20900000000000007,
+                         "desvio":  -0.23750000000000004,
                          "farol":  "vermelho",
                          "dataFim":  "2026-07-27",
                          "mostrar":  true,
@@ -2428,7 +2448,7 @@
                          "justificativaDesvio":  "Atraso na emissão de laudo. Previsão de finalização em Junho/26.",
                          "principaisAtividades":  "Em andamento elaboração de laudo",
                          "comentarioMensal":  "Em andamento elaboração de laudo",
-                         "pontosAtencao":  "Visita da empresa AVEN na primeira semana de Maio para novos levantamentos.",
+                         "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -2479,7 +2499,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-27"
                      },
                      {
                          "id":  22,
@@ -2499,9 +2520,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.4524,
+                         "previstoPct":  0.491,
                          "realPct":  0.4524,
-                         "desvio":  0,
+                         "desvio":  -0.038599999999999968,
                          "farol":  "verde",
                          "dataFim":  "2026-12-31",
                          "mostrar":  true,
@@ -2514,9 +2535,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Em andamento contratação da montadora",
-                         "comentarioMensal":  "Em andamento contratação da montadora",
-                         "pontosAtencao":  "Realizada solicitação de mudança devido a dois pontos: Indisponibilidade de Sobressalentes (Rotor e Peneira): Por solicitação do Gerente da Linha de Fibras (Sr. Marco Aurélio), as peças destinadas ao Filtro 3FT3F foram cedidas à operação para mitigar riscos de continuidade das máquinas atuais. A reposição desses itens estende o prazo de entrega dos componentes para 31 de agosto de 2026.\n\nSubstituição do Tanque de Rejeitos (366-21-012): Após inspeção do SPIE, constatou-se que a integridade estrutural do tanque atual inviabiliza reparos. Optou-se por reaproveitar dois tanques de menor capacidade da Caustificação (60 m³ por tanque). O custo será equalizado utilizando a verba anteriormente destinada à reforma.\nO projeto irá conseguir tratar até 80% do volume histórico de vazão do efluente que fica em torno de 150 m³.",
+                         "principaisAtividades":  "Realizada solicitação de mudança devido a dois pontos: Indisponibilidade de Sobressalentes (Rotor e Peneira): Por solicitação do Gerente da Linha de Fibras (Sr. Marco Aurélio), as peças destinadas ao Filtro 3FT3F foram cedidas à operação para mitigar riscos de continuidade das máquinas atuais. A reposição desses itens estende o prazo de entrega dos componentes para 31 de agosto de 2026.\n\nSubstituição do Tanque de Rejeitos (366-21-012): Após inspeção do SPIE, constatou-se que a integridade estrutural do tanque atual inviabiliza reparos. Optou-se por reaproveitar dois tanques de menor capacidade da Caustificação (60 m³ por tanque). O custo será equalizado utilizando a verba anteriormente destinada à reforma.\nO projeto irá conseguir tratar até 80% do volume histórico de vazão do efluente que fica em torno de 150 m³.",
+                         "comentarioMensal":  "Realizada solicitação de mudança devido a dois pontos: Indisponibilidade de Sobressalentes (Rotor e Peneira): Por solicitação do Gerente da Linha de Fibras (Sr. Marco Aurélio), as peças destinadas ao Filtro 3FT3F foram cedidas à operação para mitigar riscos de continuidade das máquinas atuais. A reposição desses itens estende o prazo de entrega dos componentes para 31 de agosto de 2026.\n\nSubstituição do Tanque de Rejeitos (366-21-012): Após inspeção do SPIE, constatou-se que a integridade estrutural do tanque atual inviabiliza reparos. Optou-se por reaproveitar dois tanques de menor capacidade da Caustificação (60 m³ por tanque). O custo será equalizado utilizando a verba anteriormente destinada à reforma.\nO projeto irá conseguir tratar até 80% do volume histórico de vazão do efluente que fica em torno de 150 m³.",
+                         "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -2567,15 +2588,16 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-12-31"
                      },
                      {
                          "id":  23,
                          "code":  "GB-2024-0050",
                          "anoImplantacao":  2026,
-                         "projeto":  "DIFUSORES TB2 E TB3",
-                         "nome":  "DIFUSORES TB2 E TB3",
-                         "escopo":  "Substituição de unidades hidráulicas, pás (álabes), rolamentos, raspadores, placas perfuradas da peneira e tubos guia.\n\nSubstituição de cabos de alimentação e instrumentação.\n\nSubstituição de sensores de posicionamento nos cilindros de elevação da peneira.\n\nRenovação das torres com aplicação de revestimento anticorrosivo.",
+                         "projeto":  "Difusores TB2 e TB3",
+                         "nome":  "Difusores TB2 e TB3",
+                         "escopo":  "Em definição",
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
                          "fasePrincipal":  "Iniciação",
@@ -2587,9 +2609,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  null,
-                         "realPct":  null,
-                         "desvio":  null,
+                         "previstoPct":  0.491,
+                         "realPct":  0.4524,
+                         "desvio":  -0.038599999999999968,
                          "farol":  "cinza",
                          "dataFim":  "2027-01-28",
                          "mostrar":  true,
@@ -2602,9 +2624,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Elaborado cronograma macro, apresentado plano de ataque e emitido termo de abertura.",
-                         "comentarioMensal":  "Elaborado cronograma macro, apresentado plano de ataque e emitido termo de abertura.",
-                         "pontosAtencao":  "Pendente aprovação Alexandre Bica no termo de abertura",
+                         "principaisAtividades":  "Desmontagem e içamento das unidades hidráulicas dos TB\u0027s",
+                         "comentarioMensal":  "Desmontagem e içamento das unidades hidráulicas dos TB\u0027s",
+                         "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
                                                      "2025-01-01",
@@ -2696,7 +2718,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-01-28"
                      },
                      {
                          "id":  24,
@@ -2730,9 +2753,9 @@
                                        "dataFimPlan":  "2026-04-28"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na entrega de materiais. Contratada durante as PGs de 2026 foi redirecionadas para atuação em outras frentes",
-                         "principaisAtividades":  "Finalização das montagens",
-                         "comentarioMensal":  "Finalização das montagens",
+                         "justificativaDesvio":  "Sem desvios",
+                         "principaisAtividades":  "Execução de pendências",
+                         "comentarioMensal":  "Execução de pendências",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -2784,7 +2807,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-25"
                      },
                      {
                          "id":  25,
@@ -2804,9 +2828,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9413,
+                         "previstoPct":  0.9948,
                          "realPct":  0.9935,
-                         "desvio":  0.052200000000000024,
+                         "desvio":  -0.0012999999999999678,
                          "farol":  "verde",
                          "dataFim":  "2026-07-31",
                          "mostrar":  true,
@@ -2819,9 +2843,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Em execução de pendências para finalização do projeto.",
-                         "comentarioMensal":  "Em execução de pendências para finalização do projeto.",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "principaisAtividades":  "Coleta de assinaturas do termo de comissionamento",
+                         "comentarioMensal":  "Coleta de assinaturas do termo de comissionamento",
+                         "pontosAtencao":  "Aguardando assinatura no termo (Odair Lima)",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -2872,7 +2896,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-31"
                      },
                      {
                          "id":  26,
@@ -2906,10 +2931,10 @@
                                        "dataFimPlan":  "2026-04-22"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Falha na execução do DJ do S32 durante a PG",
-                         "principaisAtividades":  "Aguardando oportunidade para finalização da montagem (36h).",
-                         "comentarioMensal":  "Atividade de infraestrutura para instalação da refrigeração. Previsão de finalização da refrigeração em Junho/26\nABB esteve na CMPC no dia 08/05 e enviará um relatório até 30/05 com as informações avaliadas.",
-                         "pontosAtencao":  "Automate irá programar atividades de finalização do escopo dos painéis S33 e S342",
+                         "justificativaDesvio":  "Atraso na montagem",
+                         "principaisAtividades":  "Aguardando definição",
+                         "comentarioMensal":  "Aguardando definição",
+                         "pontosAtencao":  "Em avaliação a continuação do projeto com a Automate e definição de uma Janela operacional no segundo semestre de 2026",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -3013,7 +3038,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-04-27"
                      },
                      {
                          "id":  27,
@@ -3033,9 +3059,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9936,
+                         "previstoPct":  1,
                          "realPct":  0.98,
-                         "desvio":  -0.013600000000000056,
+                         "desvio":  -0.020000000000000018,
                          "farol":  "amarelo",
                          "dataFim":  "2026-06-29",
                          "mostrar":  true,
@@ -3050,7 +3076,7 @@
                          "justificativaDesvio":  "Atraso na montagem do polarizador",
                          "principaisAtividades":  "Atividade de infraestrutura para instalação da refrigeração.",
                          "comentarioMensal":  "Atividade de infraestrutura para instalação da refrigeração.",
-                         "pontosAtencao":  "ABB esteve na CMPC no dia 08/05 para verificar as pendências, aguardando envio do relatório.",
+                         "pontosAtencao":  "Recebido o relatório da ABB, em definição quanto a alimentação provisória de 100Volt para teste em Painel",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -3163,7 +3189,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-29"
                      },
                      {
                          "id":  28,
@@ -3183,9 +3210,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  1,
+                         "previstoPct":  0.9075,
                          "realPct":  0.92,
-                         "desvio":  -0.07999999999999996,
+                         "desvio":  0.012500000000000067,
                          "farol":  "vermelho",
                          "dataFim":  "2026-11-10",
                          "mostrar":  true,
@@ -3197,10 +3224,10 @@
                                        "dataFimPlan":  "2026-05-14"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso devido ao declínio da empresa contratada na montagem do projeto.",
-                         "principaisAtividades":  "Em andamento processo de contratação da nova montadora",
-                         "comentarioMensal":  "Em andamento processo de contratação da nova montadora",
-                         "pontosAtencao":  "Em aprovação a SM para inserção dos dois novos escopos de contratação.",
+                         "justificativaDesvio":  "Atraso na fabricação dos equipamentos",
+                         "principaisAtividades":  "Iniciado processo de contratação de montadora elétrica e mecânica.",
+                         "comentarioMensal":  "Iniciado processo de contratação de montadora elétrica e mecânica.",
+                         "pontosAtencao":  "Necessário PP\u0027s para instalação.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -3251,7 +3278,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-11-10"
                      },
                      {
                          "id":  29,
@@ -3271,9 +3299,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.8591,
+                         "previstoPct":  0.96,
                          "realPct":  0.6051,
-                         "desvio":  -0.254,
+                         "desvio":  -0.3549,
                          "farol":  "vermelho",
                          "dataFim":  "2026-12-20",
                          "mostrar":  true,
@@ -3285,10 +3313,10 @@
                                        "dataFimPlan":  "2026-08-12"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Alteração do escopo, inserindoa planta de potabilização e sistema de bombeamento interno da água, isolando a planta do sistema da concessionária.",
-                         "principaisAtividades":  "Realização da engenharia básica e detalhada para orçamentação e aprovação de nova fase em Julho/26",
-                         "comentarioMensal":  "Realização da engenharia básica e detalhada para orçamentação e aprovação de nova fase em Julho/26",
-                         "pontosAtencao":  "Contratação da engenharia básica da nova tubulação de água potável da UG1.",
+                         "justificativaDesvio":  "Atraso na definição de escopo devido a avaliação implantação da planta de potabilização.",
+                         "principaisAtividades":  "Em andamento engenharia detalhada",
+                         "comentarioMensal":  "Em andamento engenharia detalhada",
+                         "pontosAtencao":  "Contratação da engenharia detalhada da nova tubulação de água potável da UG1.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -3339,7 +3367,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-12-20"
                      },
                      {
                          "id":  30,
@@ -3427,7 +3456,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-04-30"
                      },
                      {
                          "id":  31,
@@ -3447,9 +3477,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9411,
+                         "previstoPct":  0.9566,
                          "realPct":  0.9411,
-                         "desvio":  0,
+                         "desvio":  -0.015499999999999958,
                          "farol":  "verde",
                          "dataFim":  "2026-09-11",
                          "mostrar":  true,
@@ -3462,8 +3492,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Em andamento a construção civil com finalização prevista para Junho/26.",
-                         "comentarioMensal":  "Em andamento a construção civil com finalização prevista para Junho/26.",
+                         "principaisAtividades":  "Em andamento a construção civil com finalização prevista para Julho/26.",
+                         "comentarioMensal":  "Em andamento a construção civil com finalização prevista para Julho/26.",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -3568,7 +3598,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-09-11"
                      },
                      {
                          "id":  32,
@@ -3582,15 +3613,15 @@
                          "fasePrincipal":  "Execução",
                          "situacaoAtual":  "Implantação",
                          "respEngenharia":  "Barbara Crysthine Sousa Lopes (Cmpc Brasil)",
-                         "gerenteDemandante":  "Diego Tramontini",
+                         "gerenteDemandante":  "Jaime Molina",
                          "coordManutencao":  "Luciano Zeferino",
                          "equipeComissionamento":  "",
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.845,
+                         "previstoPct":  0.865,
                          "realPct":  0.84,
-                         "desvio":  -0.0050000000000000044,
+                         "desvio":  -0.025000000000000022,
                          "farol":  "amarelo",
                          "dataFim":  "2027-01-08",
                          "mostrar":  true,
@@ -3603,8 +3634,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Atraso devido a saída da empresa de contrato já locada na montagem, sendo necessário nova contratação.",
-                         "principaisAtividades":  "Elaboração de especificação técnica.",
-                         "comentarioMensal":  "Elaboração de especificação técnica para nova contratação.",
+                         "principaisAtividades":  "Processo de contratação de montadora em andamento",
+                         "comentarioMensal":  "Processo de contratação de montadora em andamento",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -3718,7 +3749,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-01-08"
                      },
                      {
                          "id":  33,
@@ -3732,15 +3764,15 @@
                          "fasePrincipal":  "Execução",
                          "situacaoAtual":  "Implantação",
                          "respEngenharia":  "Barbara Crysthine Sousa Lopes (Cmpc Brasil)",
-                         "gerenteDemandante":  "Diego Tramontini",
+                         "gerenteDemandante":  "Jaime Molina",
                          "coordManutencao":  "Luciano Zeferino",
                          "equipeComissionamento":  "",
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.6372,
+                         "previstoPct":  0.65,
                          "realPct":  0.5829,
-                         "desvio":  -0.054300000000000015,
+                         "desvio":  -0.067100000000000048,
                          "farol":  "vermelho",
                          "dataFim":  "2026-12-29",
                          "mostrar":  true,
@@ -3753,8 +3785,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Atraso devido a saída da empresa de contrato já locada na montagem, sendo necessário nova contratação.",
-                         "principaisAtividades":  "Elaboração de especificação técnica.",
-                         "comentarioMensal":  "Elaboração de especificação técnica.",
+                         "principaisAtividades":  "Processo de contratação de montadora em andamento",
+                         "comentarioMensal":  "Processo de contratação de montadora em andamento",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -3806,14 +3838,15 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-12-29"
                      },
                      {
                          "id":  34,
                          "code":  "GB-2025-0004",
                          "anoImplantacao":  2026,
-                         "projeto":  "MODERNIZAÇÃO DO CENTRO DE TREINAMENTO",
-                         "nome":  "MODERNIZAÇÃO DO CENTRO DE TREINAMENTO",
+                         "projeto":  "Modernização do Centro de Treinamento",
+                         "nome":  "Modernização do Centro de Treinamento",
                          "escopo":  "Reforma de banheiros e copa com adequações conforme NBR 9050, recuperação da cobertura para eliminação de vazamentos e instalação de novas portas acessíveis.",
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
@@ -3826,9 +3859,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9459,
+                         "previstoPct":  0.9915,
                          "realPct":  0.9958,
-                         "desvio":  0.049900000000000055,
+                         "desvio":  0.0042999999999999705,
                          "farol":  "verde",
                          "dataFim":  "2026-06-15",
                          "mostrar":  true,
@@ -3956,7 +3989,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-15"
                      },
                      {
                          "id":  35,
@@ -3968,7 +4002,7 @@
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
                          "fasePrincipal":  "Planejamento",
-                         "situacaoAtual":  "Aquisições",
+                         "situacaoAtual":  "Implantação",
                          "respEngenharia":  "Barbara Crysthine Sousa Lopes (Cmpc Brasil)",
                          "gerenteDemandante":  "Bruna Bof",
                          "coordManutencao":  "Pedro Lucas",
@@ -3976,9 +4010,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.3166,
+                         "previstoPct":  0.4445,
                          "realPct":  0.2682,
-                         "desvio":  -0.0484,
+                         "desvio":  -0.1763,
                          "farol":  "vermelho",
                          "dataFim":  "2026-12-31",
                          "mostrar":  true,
@@ -3990,10 +4024,10 @@
                                        "dataFimPlan":  "2026-06-02"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na contratação da montadora pois o valor da porposta está muito acima do disponível.",
-                         "principaisAtividades":  "Avaliação e solicitação de novas propostas comerciais afim de conseguir o melhor valor para finalização do processo de contratação.",
-                         "comentarioMensal":  "Avaliação e solicitação de novas propostas comerciais afim de conseguir o melhor valor para finalização do processo de contratação.",
-                         "pontosAtencao":  "Será utilizada a contingência gerencial para finalizar o processo de contratação da montadora.",
+                         "justificativaDesvio":  "Atraso na contratação da montadora pois o valor da proposta está muito acima do disponível.",
+                         "principaisAtividades":  "Emitido pedido de compra da montadora",
+                         "comentarioMensal":  "Emitido pedido de compra da montadora",
+                         "pontosAtencao":  "Início das obras previsto para 01/07",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -4106,7 +4140,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-12-31"
                      },
                      {
                          "id":  36,
@@ -4126,9 +4161,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9977,
+                         "previstoPct":  1,
                          "realPct":  0.9934,
-                         "desvio":  -0.0043000000000000815,
+                         "desvio":  -0.00660000000000005,
                          "farol":  "amarelo",
                          "dataFim":  "2026-12-21",
                          "mostrar":  true,
@@ -4141,9 +4176,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Processo de compra dos spare parts",
-                         "comentarioMensal":  "Processo de compra dos spare parts",
-                         "pontosAtencao":  "Comprar spare parts. Será solicitado abertura da contingência gerencial para execução dos trabalhos e compra dos equipamentos.",
+                         "principaisAtividades":  "Concluído isométrico para realização de um novo desvio para o bypass do poço central (Boska).",
+                         "comentarioMensal":  "Concluído isométrico para realização de um novo desvio para o bypass do poço central (Boska).",
+                         "pontosAtencao":  "Solicitado abertura da contingência gerencial para execução dos trabalhos e compra dos equipamentos.",
                          "curva":  {
                                        "meses":  [
 
@@ -4158,7 +4193,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-12-21"
                      },
                      {
                          "id":  37,
@@ -4192,10 +4228,10 @@
                                        "dataFimPlan":  "2026-04-09"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso da emissão do termo de encerramento.",
-                         "principaisAtividades":  "Finalização de documentação.",
-                         "comentarioMensal":  "Finalização de documentação.",
-                         "pontosAtencao":  "Pendente aprovação de José Fechner no termo de encerramento.",
+                         "justificativaDesvio":  "Sem desvios",
+                         "principaisAtividades":  "Projeto encerrado.",
+                         "comentarioMensal":  "Projeto encerrado.",
+                         "pontosAtencao":  "Sem pontos de atenção.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -4246,7 +4282,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-05-30"
                      },
                      {
                          "id":  38,
@@ -4258,7 +4295,7 @@
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
                          "fasePrincipal":  "Iniciação",
-                         "situacaoAtual":  "Aquisições",
+                         "situacaoAtual":  "Implantação",
                          "respEngenharia":  "Jorge Augusto",
                          "gerenteDemandante":  "Antônio Souza",
                          "coordManutencao":  "Ronaldo Jardim",
@@ -4281,9 +4318,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Atraso na contratação da montadora",
-                         "principaisAtividades":  "Em andamento a montagem dos dispositivos do sistema de lona para a retirada do passadiço",
-                         "comentarioMensal":  "Em andamento a montagem dos dispositivos do sistema de lona para a retirada do passadiço",
-                         "pontosAtencao":  "Previsto início da montagem do andaime em Junho/26",
+                         "principaisAtividades":  "Iniciada a desmontagem do passadiço",
+                         "comentarioMensal":  "Iniciada a desmontagem do passadiço",
+                         "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -4334,7 +4371,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-16"
                      },
                      {
                          "id":  39,
@@ -4354,9 +4392,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9826,
+                         "previstoPct":  0.9999,
                          "realPct":  0.9,
-                         "desvio":  -0.0826,
+                         "desvio":  -0.099899999999999989,
                          "farol":  "vermelho",
                          "dataFim":  "2026-07-15",
                          "mostrar":  true,
@@ -4369,9 +4407,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Atraso na montagem devido a necessidade de substituição de um atuador",
-                         "principaisAtividades":  "Aguardando emissão do pedido da montadora.",
-                         "comentarioMensal":  "Aguardando emissão do pedido da montadora.",
-                         "pontosAtencao":  "Necessário liberação de pedido da montadora para substituição do atuador.",
+                         "principaisAtividades":  "Montagem do atuador",
+                         "comentarioMensal":  "Montagem do atuador",
+                         "pontosAtencao":  "Aguardando PP para identificação de cabos e teste da válvula de controle",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -4422,7 +4460,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-15"
                      },
                      {
                          "id":  40,
@@ -4442,9 +4481,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.8509,
+                         "previstoPct":  0.9082,
                          "realPct":  0.8509,
-                         "desvio":  0,
+                         "desvio":  -0.057300000000000018,
                          "farol":  "verde",
                          "dataFim":  "2026-07-29",
                          "mostrar":  true,
@@ -4510,7 +4549,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-29"
                      },
                      {
                          "id":  41,
@@ -4524,7 +4564,7 @@
                          "fasePrincipal":  "Encerramento",
                          "situacaoAtual":  "Encerramento",
                          "respEngenharia":  "Felipe Sanfelice",
-                         "gerenteDemandante":  "Silvia Souza",
+                         "gerenteDemandante":  "Milton Ricardo Machado",
                          "coordManutencao":  "Deborah Luz",
                          "equipeComissionamento":  "",
                          "classificacao":  "",
@@ -4544,10 +4584,10 @@
                                        "dataFimPlan":  "2026-04-13"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na finalização do projeto",
-                         "principaisAtividades":  "Documentação de encerramento",
-                         "comentarioMensal":  "Documentação de encerramento",
-                         "pontosAtencao":  "Necessário aprovação do termo de encerramento por Silvia Souza",
+                         "justificativaDesvio":  "Sem desvios",
+                         "principaisAtividades":  "Projeto encerrado.",
+                         "comentarioMensal":  "Projeto encerrado.",
+                         "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -4651,7 +4691,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-05-30"
                      },
                      {
                          "id":  42,
@@ -4671,9 +4712,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.9223,
+                         "previstoPct":  0.9314,
                          "realPct":  0.8403,
-                         "desvio":  -0.081999999999999962,
+                         "desvio":  -0.091099999999999959,
                          "farol":  "vermelho",
                          "dataFim":  "2027-01-11",
                          "mostrar":  true,
@@ -4685,10 +4726,10 @@
                                        "dataFimPlan":  "2027-01-07"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso devido ao processo de contratação da montadora.",
+                         "justificativaDesvio":  "Atraso no início da atividade de recuperação estrutural",
                          "principaisAtividades":  "Recuperação estrutural",
-                         "comentarioMensal":  "Em andamento atividades de recuperação civil.",
-                         "pontosAtencao":  "Necessário realização de SM devido a saída da empresa de contrato já mobilizada para o escopo de NR\u0027s",
+                         "comentarioMensal":  "Recuperação estrutural",
+                         "pontosAtencao":  "Levantamento das atividades de NR\u0027s já executadas",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -4792,7 +4833,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-01-11"
                      },
                      {
                          "id":  43,
@@ -4827,9 +4869,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Atraso na emissão de documentação de encerramento do projeto",
-                         "principaisAtividades":  "Finalização da documentação de encerramento do projeto",
-                         "comentarioMensal":  "Finalização da documentação de encerramento do projeto",
-                         "pontosAtencao":  "Em andamento emissão do termo de encerramento",
+                         "principaisAtividades":  "Emitido termo de encerramento",
+                         "comentarioMensal":  "Emitido termo de encerramento",
+                         "pontosAtencao":  "Sem pontos de atenção.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -4942,7 +4984,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-05-30"
                      },
                      {
                          "id":  44,
@@ -4976,10 +5019,10 @@
                                        "dataFimPlan":  "2026-01-30"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso devido a necessidade de atuação em PP.",
-                         "principaisAtividades":  "Executado Tie-in na Parada emergencial",
-                         "comentarioMensal":  "Executado Tie-in na Parada Emergencial. Iniciada documentação de encerramento.",
-                         "pontosAtencao":  "Atuação em PP",
+                         "justificativaDesvio":  "Atraso na emissão de documentação de encerramento do projeto",
+                         "principaisAtividades":  "Emitido termo de encerramento",
+                         "comentarioMensal":  "Emitido termo de encerramento",
+                         "pontosAtencao":  "Sem pontos de atenção.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -5092,7 +5135,8 @@
                                            "pctReal":  null,
                                            "desvio":  null
                                        }
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-05-30"
                      },
                      {
                          "id":  46,
@@ -5112,9 +5156,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.238,
-                         "realPct":  0.241,
-                         "desvio":  0.0030000000000000027,
+                         "previstoPct":  1,
+                         "realPct":  0.301,
+                         "desvio":  -0.0050999999999999934,
                          "farol":  "verde",
                          "dataFim":  "2027-01-30",
                          "mostrar":  true,
@@ -5127,8 +5171,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Montagem/conferencia de formas e armação | Concretagem de vigas de fundação | Impermeabilização de blocos e vigas | Aterro Compactado | Recebimento de material para escoramento.",
-                         "comentarioMensal":  "Montagem/conferencia de formas e armação | Concretagem de vigas de fundação | Impermeabilização de blocos e vigas | Aterro Compactado | Recebimento de material para escoramento.",
+                         "principaisAtividades":  "Montagem do escoramento para concretagem da laje do 2° pavimento​; Montagem de forma e armação das vigas e laje do 2° pavimento​; Concretagem das vigas e laje do 2° pavimento",
+                         "comentarioMensal":  "Montagem do escoramento para concretagem da laje do 2° pavimento​; Montagem de forma e armação das vigas e laje do 2° pavimento​; Concretagem das vigas e laje do 2° pavimento",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -5144,7 +5188,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-01-30"
                      },
                      {
                          "id":  47,
@@ -5164,9 +5209,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.4638,
+                         "previstoPct":  0.5048,
                          "realPct":  0.4638,
-                         "desvio":  0,
+                         "desvio":  -0.041000000000000036,
                          "farol":  "verde",
                          "dataFim":  "2027-06-21",
                          "mostrar":  true,
@@ -5232,7 +5277,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-06-21"
                      },
                      {
                          "id":  49,
@@ -5252,9 +5298,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.2889,
+                         "previstoPct":  0.5048,
                          "realPct":  0.3223,
-                         "desvio":  0.033399999999999985,
+                         "desvio":  -0.041000000000000036,
                          "farol":  "verde",
                          "dataFim":  "2027-01-30",
                          "mostrar":  true,
@@ -5267,8 +5313,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Execução de micro estacas e chumbamento dos pilares;​\n\nPavimentação das Ruas C, E e 3;​\n\nInstalação da cerca frontal.",
-                         "comentarioMensal":  "Execução de micro estacas e chumbamento dos pilares;​\n\nPavimentação das Ruas C, E e 3;​\n\nInstalação da cerca frontal.",
+                         "principaisAtividades":  "Execução da alvenaria do sanitário do Polimento 1;​\nMontagem da estrutura metálica do Leito de Secagem;​\nInstalação de postes.",
+                         "comentarioMensal":  "Execução da alvenaria do sanitário do Polimento 1;​\nMontagem da estrutura metálica do Leito de Secagem;​\nInstalação de postes.",
                          "pontosAtencao":  "Sem pontos de atenção.",
                          "curva":  {
                                        "meses":  [
@@ -5284,7 +5330,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-01-30"
                      },
                      {
                          "id":  50,
@@ -5304,9 +5351,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0634,
+                         "previstoPct":  0.0725,
                          "realPct":  0.05,
-                         "desvio":  -0.013399999999999995,
+                         "desvio":  -0.022499999999999992,
                          "farol":  "amarelo",
                          "dataFim":  "2027-08-29",
                          "mostrar":  true,
@@ -5372,7 +5419,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-08-29"
                      },
                      {
                          "id":  51,
@@ -5392,9 +5440,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0767,
+                         "previstoPct":  0.1127,
                          "realPct":  0.0549,
-                         "desvio":  -0.021800000000000007,
+                         "desvio":  -0.0578,
                          "farol":  "amarelo",
                          "dataFim":  "2027-06-27",
                          "mostrar":  true,
@@ -5406,7 +5454,7 @@
                                        "dataFimPlan":  "2026-12-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na elaboração do termo de abertura e início do processo de aquisição",
+                         "justificativaDesvio":  "Sem desvios",
                          "principaisAtividades":  "Emitido termo de abertura, em elaboração de especificação técnica para contratação de montagem.",
                          "comentarioMensal":  "Emitido termo de abertura, em elaboração de especificação técnica para contratação de montagem.",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -5460,7 +5508,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-06-27"
                      },
                      {
                          "id":  52,
@@ -5480,9 +5529,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0261,
+                         "previstoPct":  0.0437,
                          "realPct":  0.0261,
-                         "desvio":  0,
+                         "desvio":  -0.0176,
                          "farol":  "verde",
                          "dataFim":  "2027-10-04",
                          "mostrar":  true,
@@ -5494,10 +5543,10 @@
                                        "dataFimPlan":  "2026-12-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Projeto pré aprovado para CAPEX 26 aguardando priorização da área de Segurança para liberação de verba",
+                         "justificativaDesvio":  "Projeto pré aprovado para CAPEX 26 aguardando levantamento e organização de todos as prioridades para definição da área de atuação",
                          "principaisAtividades":  "Sem atividades.",
                          "comentarioMensal":  "Sem atividades.",
-                         "pontosAtencao":  "Necessário priorização da área.",
+                         "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -5548,7 +5597,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-10-04"
                      },
                      {
                          "id":  53,
@@ -5558,7 +5608,7 @@
                          "nome":  "NR 12 - PROGRAMA DE ADEQUAÇÃO GUAÍBA",
                          "escopo":  "Em definição",
                          "tipo":  "Projeto",
-                         "statusOrcamento":  "Pré - aprovado",
+                         "statusOrcamento":  "Aprovado",
                          "fasePrincipal":  "Não iniciado",
                          "situacaoAtual":  "Não iniciado",
                          "respEngenharia":  "Everton Menezes da Silva (Cmpc Brasil)",
@@ -5568,9 +5618,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0267,
+                         "previstoPct":  0.0428,
                          "realPct":  0.0267,
-                         "desvio":  0,
+                         "desvio":  -0.016099999999999996,
                          "farol":  "verde",
                          "dataFim":  "2027-07-19",
                          "mostrar":  true,
@@ -5583,9 +5633,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Liberação da verba do projeto em Maio/26. Iniciado documentos de abertura",
-                         "comentarioMensal":  "Liberação da verba do projeto em Maio/26. Iniciado documentos de abertura",
-                         "pontosAtencao":  "Priorização realizada com a área",
+                         "principaisAtividades":  "Iniciada documentação de abertura do projeto",
+                         "comentarioMensal":  "Iniciada documentação de abertura do projeto",
+                         "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -5636,7 +5686,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-07-19"
                      },
                      {
                          "id":  54,
@@ -5656,9 +5707,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.1078,
+                         "previstoPct":  0.1484,
                          "realPct":  0.0775,
-                         "desvio":  -0.030300000000000007,
+                         "desvio":  -0.0709,
                          "farol":  "amarelo",
                          "dataFim":  "2027-07-27",
                          "mostrar":  true,
@@ -5670,10 +5721,10 @@
                                        "dataFimPlan":  "2026-12-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na elaboração do termo de abertura do projeto e processo de contratação",
+                         "justificativaDesvio":  "Atraso na elaboração do termo de abertura do projeto",
                          "principaisAtividades":  "Iniciado termo de abertura e enviadas as especificações técnicas para suprimentos para inicío do processo de contratação da montadora.",
                          "comentarioMensal":  "Iniciado termo de abertura e enviadas as especificações técnicas para suprimentos para inicío do processo de contratação da montadora.",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "pontosAtencao":  "Aguardando assinatura no termo de Abertura (Odair Lima)",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -5724,7 +5775,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-07-27"
                      },
                      {
                          "id":  55,
@@ -5744,9 +5796,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0776,
+                         "previstoPct":  0.1095,
                          "realPct":  0.0507,
-                         "desvio":  -0.0269,
+                         "desvio":  -0.0588,
                          "farol":  "amarelo",
                          "dataFim":  "2027-01-18",
                          "mostrar":  true,
@@ -5759,8 +5811,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Atraso no retorno da CIPA referente aos pontos de instalação dos chuveiros, ocasionando no atraso da emissão do termo de abertura.",
-                         "principaisAtividades":  "Emissão de termo de abertura paralizado até nova definição de pontos de instalação de chuveiro.",
-                         "comentarioMensal":  "Emissão de termo de abertura paralizado até nova definição de pontos de instalação de chuveiro.",
+                         "principaisAtividades":  "Levantados novos pontos que serão enviados para aprovação.",
+                         "comentarioMensal":  "Levantados novos pontos que serão enviados para aprovação.",
                          "pontosAtencao":  "Em visita a área, foi verificado que dois dos pontos mapeados não poderão ser executados devido a não cumprirem a distância mínima de 50m de distância entre outro chuveiro. Serão levantados novos pontos para sugerir a área.",
                          "curva":  {
                                        "meses":  [
@@ -5812,7 +5864,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-01-18"
                      },
                      {
                          "id":  56,
@@ -5832,9 +5885,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0807,
+                         "previstoPct":  0.0918,
                          "realPct":  0.0533,
-                         "desvio":  -0.027399999999999994,
+                         "desvio":  -0.038500000000000006,
                          "farol":  "amarelo",
                          "dataFim":  "2027-04-29",
                          "mostrar":  true,
@@ -5900,7 +5953,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-04-29"
                      },
                      {
                          "id":  57,
@@ -5920,9 +5974,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0585,
-                         "realPct":  0.0585,
-                         "desvio":  0,
+                         "previstoPct":  0.0626,
+                         "realPct":  0.0558,
+                         "desvio":  -0.0068000000000000005,
                          "farol":  "verde",
                          "dataFim":  "2028-01-05",
                          "mostrar":  true,
@@ -5988,7 +6042,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2028-01-05"
                      },
                      {
                          "id":  58,
@@ -6008,9 +6063,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  null,
-                         "realPct":  null,
-                         "desvio":  null,
+                         "previstoPct":  0,
+                         "realPct":  0,
+                         "desvio":  0,
                          "farol":  "cinza",
                          "dataFim":  null,
                          "mostrar":  true,
@@ -6076,7 +6131,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  null
                      },
                      {
                          "id":  59,
@@ -6096,9 +6152,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0381,
+                         "previstoPct":  0.0476,
                          "realPct":  0.0381,
-                         "desvio":  0,
+                         "desvio":  -0.0095000000000000015,
                          "farol":  "verde",
                          "dataFim":  "2027-12-04",
                          "mostrar":  true,
@@ -6111,9 +6167,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Projeto apresentado no comitê de Maio, aguardando apresentação no Steerco para retorno da aprovação. Solicitado orçamento para Engenharia.",
-                         "comentarioMensal":  "Projeto apresentado no comitê de Maio, aguardando apresentação no Steerco para retorno da aprovação. Solicitado orçamento para Engenharia.",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "principaisAtividades":  "Projeto apresentado no comitê de Maio",
+                         "comentarioMensal":  "Projeto apresentado no comitê de Maio",
+                         "pontosAtencao":  "Projeto transferido para CAPEX de manutenção, após PEP aprovado, será iniciado engenharia básica pela Engenharia",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -6164,7 +6220,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-12-04"
                      },
                      {
                          "id":  60,
@@ -6184,9 +6241,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0408,
+                         "previstoPct":  0.051,
                          "realPct":  0.0349,
-                         "desvio":  -0.0059000000000000025,
+                         "desvio":  -0.016099999999999996,
                          "farol":  "amarelo",
                          "dataFim":  "2027-06-27",
                          "mostrar":  true,
@@ -6252,7 +6309,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-06-27"
                      },
                      {
                          "id":  61,
@@ -6272,9 +6330,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0402,
+                         "previstoPct":  0.0475,
                          "realPct":  0.0402,
-                         "desvio":  0,
+                         "desvio":  -0.0073000000000000009,
                          "farol":  "verde",
                          "dataFim":  "2027-06-10",
                          "mostrar":  true,
@@ -6340,7 +6398,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-06-10"
                      },
                      {
                          "id":  62,
@@ -6360,9 +6419,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0399,
+                         "previstoPct":  0.0489,
                          "realPct":  0.0399,
-                         "desvio":  0,
+                         "desvio":  -0.0090000000000000011,
                          "farol":  "verde",
                          "dataFim":  "2027-08-29",
                          "mostrar":  true,
@@ -6374,10 +6433,10 @@
                                        "dataFimPlan":  "2026-12-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Projeto pré aprovado para CAPEX 26 aguardando emissão do laudo inicial para priorização. Previsão de finalização do laudo: Junho/26",
-                         "principaisAtividades":  "Projeto pré aprovado para CAPEX 26 aguardando emissão do laudo inicial para priorização. Previsão de finalização do laudo: Junho/26",
-                         "comentarioMensal":  "Projeto pré aprovado para CAPEX 26 aguardando emissão do laudo inicial para priorização. Previsão de finalização do laudo: Junho/26",
-                         "pontosAtencao":  "Projeto pré aprovado para CAPEX 26 aguardando emissão do laudo inicial para priorização. Previsão de finalização do laudo: Junho/26",
+                         "justificativaDesvio":  "Projeto pré aprovado para CAPEX 26 aguardando emissão do laudo inicial para priorização. Previsão de finalização do laudo: 30/06/26",
+                         "principaisAtividades":  "Projeto pré aprovado para CAPEX 26 aguardando emissão do laudo inicial para priorização. Previsão de finalização do laudo: 30/06/26",
+                         "comentarioMensal":  "Projeto pré aprovado para CAPEX 26 aguardando emissão do laudo inicial para priorização. Previsão de finalização do laudo: 30/06/26",
+                         "pontosAtencao":  "Projeto pré aprovado para CAPEX 26 aguardando emissão do laudo inicial para priorização. Previsão de finalização do laudo: 30/06/26",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -6428,7 +6487,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-08-29"
                      },
                      {
                          "id":  63,
@@ -6442,15 +6502,15 @@
                          "fasePrincipal":  "Não iniciado",
                          "situacaoAtual":  "Não iniciado",
                          "respEngenharia":  "Barbara Crysthine Sousa Lopes (Cmpc Brasil)",
-                         "gerenteDemandante":  "Diego Tramontini",
+                         "gerenteDemandante":  "Jaime Molina",
                          "coordManutencao":  "Luciano Zeferino",
                          "equipeComissionamento":  "",
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  null,
-                         "realPct":  null,
-                         "desvio":  null,
+                         "previstoPct":  0,
+                         "realPct":  0,
+                         "desvio":  0,
                          "farol":  "cinza",
                          "dataFim":  null,
                          "mostrar":  true,
@@ -6480,7 +6540,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  null
                      },
                      {
                          "id":  64,
@@ -6500,9 +6561,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0652,
+                         "previstoPct":  0.078,
                          "realPct":  0.0696,
-                         "desvio":  0.0044000000000000011,
+                         "desvio":  -0.0084000000000000047,
                          "farol":  "verde",
                          "dataFim":  "2027-09-08",
                          "mostrar":  true,
@@ -6568,7 +6629,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-09-08"
                      },
                      {
                          "id":  65,
@@ -6602,7 +6664,7 @@
                                        "dataFimPlan":  "2026-05-05"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na finalização da documentação do projeto.",
+                         "justificativaDesvio":  "Atraso na finalização da documetação do projeto.",
                          "principaisAtividades":  "Em andamento punchlist, asbuilt e recebimento de data book",
                          "comentarioMensal":  "Em andamento punchlist, asbuilt e recebimento de data book",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -6656,7 +6718,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-22"
                      },
                      {
                          "id":  66,
@@ -6676,9 +6739,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.84,
+                         "previstoPct":  0.9981,
                          "realPct":  0.8332,
-                         "desvio":  -0.0067999999999999172,
+                         "desvio":  -0.16489999999999994,
                          "farol":  "amarelo",
                          "dataFim":  "2026-06-24",
                          "mostrar":  true,
@@ -6690,9 +6753,9 @@
                                        "dataFimPlan":  "2026-05-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso devido a necessidade de PP para finalização de pendências",
-                         "principaisAtividades":  "Finalizada montagem na Parada emergêncial da CR2. Iniciada documentação de encerramento do projeto.",
-                         "comentarioMensal":  "Finalizada montagem na Parada emergêncial da CR2. Iniciada documentação de encerramento do projeto.",
+                         "justificativaDesvio":  "Sem desvios",
+                         "principaisAtividades":  "Planilha de comissionamento em processo de coleta de assinaturas",
+                         "comentarioMensal":  "Planilha de comissionamento em processo de coleta de assinaturas",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -6744,7 +6807,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-24"
                      },
                      {
                          "id":  67,
@@ -6754,9 +6818,9 @@
                          "nome":  "ADEQUAÇÃO DO SISTEMA DE EXAUSTÃO DE LIQUEFAÇÃO DE CLORO COM INSTALAÇÃO DE EXAUSTOR BACKUP",
                          "escopo":  "Aquisição de um novo exaustor para Back up, confecção de base e colocação de componentes para instalação de elétrica SE 456 Gaveta reserva em atendimento a NR-10 e sinais no Rack 450-MR-03-06.\nInstalação do novo exaustor em paralelo ao existente para garantir o funcionamento do sistema em caso falha;",
                          "tipo":  "Projeto",
-                         "statusOrcamento":  "Pré - aprovado",
-                         "fasePrincipal":  "Não iniciado",
-                         "situacaoAtual":  "Não iniciado",
+                         "statusOrcamento":  "Aprovado",
+                         "fasePrincipal":  "Iniciação",
+                         "situacaoAtual":  "Iniciação",
                          "respEngenharia":  "Felipe Sanfelice",
                          "gerenteDemandante":  "Silvia Souza",
                          "coordManutencao":  "",
@@ -6764,9 +6828,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.043,
+                         "previstoPct":  0.0583,
                          "realPct":  0.043,
-                         "desvio":  0,
+                         "desvio":  -0.015300000000000001,
                          "farol":  "verde",
                          "dataFim":  "2027-06-07",
                          "mostrar":  true,
@@ -6779,8 +6843,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Projeto aprovado para o CAPEX 26, verba liberada e termo de abertura emitido e assinado. Iniciado processo de contratação",
-                         "comentarioMensal":  "Projeto aprovado para o CAPEX 26, verba liberada e termo de abertura emitido e assinado. Iniciado processo de contratação",
+                         "principaisAtividades":  "Emitido e arquivado termo de abertura aprovado. Iniciado processo de contratação de engenharia",
+                         "comentarioMensal":  "Emitido e arquivado termo de abertura aprovado. Iniciado processo de contratação de engenharia",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -6832,7 +6896,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-06-07"
                      },
                      {
                          "id":  68,
@@ -6843,8 +6908,8 @@
                          "escopo":  "Instalar válvulas para bloqueio dos drenos das duas bacias da Planta Quimica G1",
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
-                         "fasePrincipal":  "Execução",
-                         "situacaoAtual":  "Implantação",
+                         "fasePrincipal":  "Iniciação",
+                         "situacaoAtual":  "Iniciação",
                          "respEngenharia":  "Felipe Sanfelice",
                          "gerenteDemandante":  "Silvia Souza",
                          "coordManutencao":  "",
@@ -6852,9 +6917,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.304,
+                         "previstoPct":  0.35,
                          "realPct":  0.304,
-                         "desvio":  0,
+                         "desvio":  -0.045999999999999985,
                          "farol":  "verde",
                          "dataFim":  "2026-09-24",
                          "mostrar":  true,
@@ -6867,8 +6932,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Processo de contratação de montadora em andamento",
-                         "comentarioMensal":  "Processo de contratação de montadora em andamento",
+                         "principaisAtividades":  "Pedido emitido da montadora. Prevista mobilização em Junho.",
+                         "comentarioMensal":  "Pedido emitido da montadora. Prevista mobilização em Junho.",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -6920,7 +6985,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-09-24"
                      },
                      {
                          "id":  69,
@@ -6930,9 +6996,9 @@
                          "nome":  "AUTOMATIZAÇÃO DO CONTROLE DA TORRE DE HIPOCLORITO DE SÓDIO G1",
                          "escopo":  "Novos equipamentos de medição de fluxo de fluidos; similar da G2\nNova Válvula de abertura integrada com sistema de leitura da mistura;\nInterface de automação para a mistura de água e solução clorada.",
                          "tipo":  "Projeto",
-                         "statusOrcamento":  "Pré - aprovado",
-                         "fasePrincipal":  "Não iniciado",
-                         "situacaoAtual":  "Não iniciado",
+                         "statusOrcamento":  "Aprovado",
+                         "fasePrincipal":  "Iniciação",
+                         "situacaoAtual":  "Iniciação",
                          "respEngenharia":  "Felipe Sanfelice",
                          "gerenteDemandante":  "Silvia Souza",
                          "coordManutencao":  "",
@@ -6940,9 +7006,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0463,
+                         "previstoPct":  0.0608,
                          "realPct":  0.0463,
-                         "desvio":  0,
+                         "desvio":  -0.014499999999999999,
                          "farol":  "verde",
                          "dataFim":  "2027-05-01",
                          "mostrar":  true,
@@ -6955,9 +7021,9 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Projeto aprovado para o CAPEX 26, verba liberada e termo de abertura emitido e assinado. Iniciado processo de contratação",
-                         "comentarioMensal":  "Projeto aprovado para o CAPEX 26, verba liberada e termo de abertura emitido e assinado. Iniciado processo de contratação",
-                         "pontosAtencao":  "Aprovado",
+                         "principaisAtividades":  "Emitido e arquivado termo de abertura aprovado. Iniciado processo de contratação de engenharia",
+                         "comentarioMensal":  "Emitido e arquivado termo de abertura aprovado. Iniciado processo de contratação de engenharia",
+                         "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -7008,7 +7074,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-05-01"
                      },
                      {
                          "id":  70,
@@ -7018,9 +7085,9 @@
                          "nome":  "AUTOMATIZAÇÃO DO CONTROLE DO LAVADOR DE HIDROGÊNIO G1",
                          "escopo":  "Instalar  sistema de indicação de vazão e monitoramento contínuo de potencial oxirredução (ORP) no tanque de hipoclorito que está conectado com o lavador de hidrogênio.\nControle de dosagem automática sobre o tanque 456-21-014.",
                          "tipo":  "Projeto",
-                         "statusOrcamento":  "Pré - aprovado",
-                         "fasePrincipal":  "Não iniciado",
-                         "situacaoAtual":  "Não iniciado",
+                         "statusOrcamento":  "Aprovado",
+                         "fasePrincipal":  "Iniciação",
+                         "situacaoAtual":  "Iniciação",
                          "respEngenharia":  "Felipe Sanfelice",
                          "gerenteDemandante":  "Silvia Souza",
                          "coordManutencao":  "",
@@ -7028,9 +7095,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0493,
+                         "previstoPct":  0.0608,
                          "realPct":  0.0493,
-                         "desvio":  0,
+                         "desvio":  -0.011500000000000003,
                          "farol":  "verde",
                          "dataFim":  "2027-05-06",
                          "mostrar":  true,
@@ -7043,8 +7110,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Projeto aprovado para o CAPEX 26, verba liberada e termo de abertura emitido e assinado. Iniciado processo de contratação",
-                         "comentarioMensal":  "Projeto aprovado para o CAPEX 26, verba liberada e termo de abertura emitido e assinado. Iniciado processo de contratação",
+                         "principaisAtividades":  "Emitido e arquivado termo de abertura aprovado. Iniciado processo de contratação de engenharia",
+                         "comentarioMensal":  "Emitido e arquivado termo de abertura aprovado. Iniciado processo de contratação de engenharia",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -7096,7 +7163,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-05-06"
                      },
                      {
                          "id":  71,
@@ -7116,9 +7184,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0209,
+                         "previstoPct":  0.0288,
                          "realPct":  0.0209,
-                         "desvio":  0,
+                         "desvio":  -0.0079,
                          "farol":  "verde",
                          "dataFim":  "2028-04-17",
                          "mostrar":  true,
@@ -7131,8 +7199,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Em andamento a engenharia básico, com previsão de entrega em 30/05. Previsão de apresentação em comitê em Junho com a orçamentação atualizada.",
-                         "comentarioMensal":  "Em andamento a engenharia básico, com previsão de entrega em 30/05. Previsão de apresentação em comitê em Junho com a orçamentação atualizada.",
+                         "principaisAtividades":  "Nova estratégia definida onde o projeto será apresentado em comitê em Setembro/26 devido a priorização de custos.",
+                         "comentarioMensal":  "Nova estratégia definida onde o projeto será apresentado em comitê em Setembro/26 devido a priorização de custos.",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -7184,7 +7252,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2028-04-17"
                      },
                      {
                          "id":  72,
@@ -7194,9 +7263,9 @@
                          "nome":  "FASE 2.5 - SUBSTITUIÇÃO DA REDE DE ÁGUA DE INCÊNDIO (UG1)",
                          "escopo":  "Elaboração da engenharia com fabricação e instalação de nova linha em substituição a existente com água tratada com normas vigentes de combate a incêndio (NFPA-14, NFPA 20 e NFPA-24).\nDesmontagem e instalação de 658 m (Ø 4”); 490 m (Ø 6”) e 72 m(Ø 8”).\nSubstituição de 27 pontos de hidrante e duas válvulas gaveta de 4”.\nInstalação de pipe rack da máquina de papel para oficina central (DEFAPA).",
                          "tipo":  "Projeto",
-                         "statusOrcamento":  "Pré - aprovado",
-                         "fasePrincipal":  "Não iniciado",
-                         "situacaoAtual":  "Não iniciado",
+                         "statusOrcamento":  "Aprovado",
+                         "fasePrincipal":  "Iniciação",
+                         "situacaoAtual":  "Iniciação",
                          "respEngenharia":  "Winston de Oliveira Ruibacki (Cmpc Brasil)",
                          "gerenteDemandante":  "Milton Ricardo Machado",
                          "coordManutencao":  "Deborah Luz",
@@ -7204,9 +7273,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0475,
+                         "previstoPct":  0.0547,
                          "realPct":  0.0475,
-                         "desvio":  0,
+                         "desvio":  -0.0071999999999999981,
                          "farol":  "verde",
                          "dataFim":  "2027-08-27",
                          "mostrar":  true,
@@ -7218,10 +7287,10 @@
                                        "dataFimPlan":  "2026-12-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Projeto pré aprovado para o CAPEX 26 apresentado no comitê de maio/26. Aguardando aprovação no Steerco",
-                         "principaisAtividades":  "Projeto pré aprovado para o CAPEX 26 apresentado no comitê de maio/26. Aguardando aprovação no Steerco",
-                         "comentarioMensal":  "Projeto pré aprovado para o CAPEX 26 apresentado no comitê de maio/26. Aguardando aprovação no Steerco",
-                         "pontosAtencao":  "Projeto pré aprovado para o CAPEX 26 apresentado no comitê de maio/26. Aguardando aprovação no Steerco",
+                         "justificativaDesvio":  "Sem desvios",
+                         "principaisAtividades":  "Verba liberada, iniciado termo de abertura",
+                         "comentarioMensal":  "Verba liberada, iniciado termo de abertura",
+                         "pontosAtencao":  "Sem pontos de atenção.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -7272,7 +7341,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-08-27"
                      },
                      {
                          "id":  73,
@@ -7282,9 +7352,9 @@
                          "nome":  "INSTALAÇÃO DE LINHA DE INOX PARA TRANSFERÊNCIA DE LICOR NEGRO DE G2 PARA G1",
                          "escopo":  "Instalação de uma tubulação (320 metros) em aço inoxidável para transferir licor negro concentrado de G2 (efeito 1B) para UG1.\n\nInclui válvulas automáticas e controle de abertura/fechamento em SDCD (Sistema Digital de Controle Distribuído).",
                          "tipo":  "Projeto",
-                         "statusOrcamento":  "Pré - aprovado",
-                         "fasePrincipal":  "Não iniciado",
-                         "situacaoAtual":  "Não iniciado",
+                         "statusOrcamento":  "Aprovado",
+                         "fasePrincipal":  "Iniciação",
+                         "situacaoAtual":  "Iniciação",
                          "respEngenharia":  "Winston de Oliveira Ruibacki (Cmpc Brasil)",
                          "gerenteDemandante":  "Ana Leticia Bhering",
                          "coordManutencao":  "",
@@ -7292,9 +7362,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0396,
+                         "previstoPct":  0.0527,
                          "realPct":  0.0396,
-                         "desvio":  0,
+                         "desvio":  -0.013099999999999994,
                          "farol":  "verde",
                          "dataFim":  "2027-10-10",
                          "mostrar":  true,
@@ -7306,10 +7376,10 @@
                                        "dataFimPlan":  "2026-12-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Projeto apresentado e aprovado em comitê em Abril. Verba liberada em 11/05.",
-                         "principaisAtividades":  "Liberação de verba;\nIniciado termo de abertura",
-                         "comentarioMensal":  "Liberação de verba;\nIniciado termo de abertura",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "justificativaDesvio":  "Projeto apresentado e aprovado em comitê em Abril.",
+                         "principaisAtividades":  "Verba liberada, iniciado termo de abertura",
+                         "comentarioMensal":  "Verba liberada, iniciado termo de abertura",
+                         "pontosAtencao":  "Sem pontos de atenção.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -7360,7 +7430,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-10-10"
                      },
                      {
                          "id":  74,
@@ -7370,7 +7441,7 @@
                          "nome":  "INSTALAÇÃO DE LINHA DE WARM UP PARALELO DA CR2 COM CR3",
                          "escopo":  "Nova linha de vapor DN 8”, com aproximadamente 28 metros, derivada da linha principal 771-SHS-0013 (DN 26”). Esta linha terá válvulas de duplo bloqueio e será interconectada à linha de pré-aquecimento existente da CRIII (775-SHS-0412-200), mantendo o diferencial de temperatura na partida na faixa de delta T de 30%.\nEstimativas: vazão de 4.099 m³/h e vazão mássica de 106,2 t/h",
                          "tipo":  "Projeto",
-                         "statusOrcamento":  "Pré - aprovado",
+                         "statusOrcamento":  "Postergado",
                          "fasePrincipal":  "Não iniciado",
                          "situacaoAtual":  "Não iniciado",
                          "respEngenharia":  "Jorge Augusto",
@@ -7380,9 +7451,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.02,
+                         "previstoPct":  0,
                          "realPct":  0.02,
-                         "desvio":  0,
+                         "desvio":  0.02,
                          "farol":  "verde",
                          "dataFim":  "2027-12-20",
                          "mostrar":  true,
@@ -7394,10 +7465,10 @@
                                        "dataFimPlan":  "2026-12-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Em andamento a elaboração do one page, previsão de apresentação no comitê em Junho/26.",
-                         "comentarioMensal":  "Em andamento a elaboração do one page, previsão de apresentação no comitê em Junho/26.",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "justificativaDesvio":  "Projeto postergado CAPEX 27",
+                         "principaisAtividades":  "Sem atividades",
+                         "comentarioMensal":  "Sem atividades",
+                         "pontosAtencao":  "Projeto postergado CAPEX 27",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -7448,7 +7519,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-12-20"
                      },
                      {
                          "id":  75,
@@ -7483,8 +7555,8 @@
                                    },
                          "escopoLongo":  "",
                          "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Em elaboração do one page para apresentação no comitê de Junho/26.",
-                         "comentarioMensal":  "Em elaboração do one page para apresentação no comitê de Junho/26.",
+                         "principaisAtividades":  "Em elaboração do one page para apresentação no comitê de Julho/26.",
+                         "comentarioMensal":  "Em elaboração do one page para apresentação no comitê de Julho/26.",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -7536,7 +7608,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-12-17"
                      },
                      {
                          "id":  76,
@@ -7546,7 +7619,7 @@
                          "nome":  "LINHA DE TRANSFERÊNCIA DE VAPOR DE MÉDIA (DEFAPA)",
                          "escopo":  "Ligação da linha  VBP-115-ac-10 com a 725-STM-100-800-30B411-CC;​\n\nAtendimento da DEFAPA com 10,5 Bar de pressão de vapor na linha de média. ​\n\nInstalar uma linha de 10” (aço carbono) com aproximadamente 200m, 7 purgadores, 2 válvulas de retenção, 1 válvula de controle com bypass, 1 medidor de vazão,  1 medidor de pressão e 1 medidor de temperatura,",
                          "tipo":  "Projeto",
-                         "statusOrcamento":  "Pré - aprovado",
+                         "statusOrcamento":  "Postergado",
                          "fasePrincipal":  "Não iniciado",
                          "situacaoAtual":  "Não iniciado",
                          "respEngenharia":  "Jorge Augusto",
@@ -7556,9 +7629,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  null,
-                         "realPct":  null,
-                         "desvio":  null,
+                         "previstoPct":  0,
+                         "realPct":  0,
+                         "desvio":  0,
                          "farol":  "cinza",
                          "dataFim":  "2027-11-30",
                          "mostrar":  true,
@@ -7570,10 +7643,10 @@
                                        "dataFimPlan":  null
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Em elaboração do one page para apresentação no comitê de Junho/26.",
-                         "comentarioMensal":  "Em elaboração do one page para apresentação no comitê de Junho/26.",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "justificativaDesvio":  "Projeto postergado CAPEX 27",
+                         "principaisAtividades":  "Sem atividades",
+                         "comentarioMensal":  "Sem atividades",
+                         "pontosAtencao":  "Projeto postergado CAPEX 27",
                          "curva":  {
                                        "meses":  [
 
@@ -7588,7 +7661,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2027-11-30"
                      },
                      {
                          "id":  77,
@@ -7608,9 +7682,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.7669,
+                         "previstoPct":  0.8534,
                          "realPct":  0.7669,
-                         "desvio":  0,
+                         "desvio":  -0.086500000000000021,
                          "farol":  "verde",
                          "dataFim":  "2026-07-31",
                          "mostrar":  true,
@@ -7676,7 +7750,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-07-31"
                      },
                      {
                          "id":  78,
@@ -7764,7 +7839,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2026-06-02"
                      },
                      {
                          "id":  79,
@@ -7784,9 +7860,9 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.0326,
-                         "realPct":  0.0326,
-                         "desvio":  0,
+                         "previstoPct":  0.0479,
+                         "realPct":  0.0262,
+                         "desvio":  -0.021699999999999997,
                          "farol":  "verde",
                          "dataFim":  "2028-01-03",
                          "mostrar":  true,
@@ -7852,7 +7928,8 @@
                                    },
                          "fases":  [
 
-                                   ]
+                                   ],
+                         "terminoPrevisto":  "2028-01-03"
                      }
                  ]
 }

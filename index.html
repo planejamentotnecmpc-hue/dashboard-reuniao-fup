@@ -8838,7 +8838,7 @@ function openModal(p,knownIdx){
     <div class="modal-kpi"><div class="klbl">Realizado</div><div class="kval ${fc}">${Fmt.pct(p.realPct,1)}</div></div>
     <div class="modal-kpi"><div class="klbl">Desvio</div><div class="kval ${fc}">${Fmt.pctSigned(p.desvio)}</div></div>
     <div class="modal-kpi"><div class="klbl">Farol</div><div class="kval">${fl}</div></div>
-    <div class="modal-kpi"><div class="klbl">Término previsto</div><div class="kval date">${Fmt.date(p.dataFim||(p.capex&&p.capex.dataFimPlan))}</div></div>
+    <div class="modal-kpi"><div class="klbl">Término previsto</div><div class="kval date">${Fmt.date(p.terminoPrevisto||p.dataFim||(p.capex&&p.capex.dataFimPlan))}</div></div>
   `;
   // Meta strip (below KPIs)
   const escopo=p.escopoLongo||p.escopo;
