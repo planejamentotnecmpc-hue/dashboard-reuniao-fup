@@ -30,10 +30,9 @@
                                         "Ana Leticia Bhering":  4
                                     },
                     "distFarol":  {
-                                      "vermelho":  15,
-                                      "verde":  35,
-                                      "amarelo":  23,
-                                      "cinza":  4
+                                      "vermelho":  11,
+                                      "verde":  39,
+                                      "amarelo":  27
                                   },
                     "distTipo":  {
                                      "Projeto":  77
@@ -2343,9 +2342,9 @@
                          "ganhos":  "",
                          "dataCapturaCC":  "",
                          "previstoPct":  0.0715,
-                         "realPct":  0.0705,
-                         "desvio":  -0.0010000000000000009,
-                         "farol":  "amarelo",
+                         "realPct":  0.0715,
+                         "desvio":  0,
+                         "farol":  "verde",
                          "dataFim":  "2028-04-03",
                          "mostrar":  true,
                          "capex":  {
@@ -2597,7 +2596,7 @@
                          "anoImplantacao":  2026,
                          "projeto":  "Difusores TB2 e TB3",
                          "nome":  "Difusores TB2 e TB3",
-                         "escopo":  "Em definição",
+                         "escopo":  "O escopo consiste na substituição de componentes mecânicos e elétricos danificados e/ou \ndesgastados, bem como o reparo/reconstituição de peças dos difusores atmosféricos das torres de \nbranqueamento TB2 e TB3, conforme seus projetos construtivo",
                          "tipo":  "Projeto",
                          "statusOrcamento":  "Aprovado",
                          "fasePrincipal":  "Iniciação",
@@ -2609,10 +2608,10 @@
                          "classificacao":  "",
                          "ganhos":  "",
                          "dataCapturaCC":  "",
-                         "previstoPct":  0.491,
-                         "realPct":  0.4524,
-                         "desvio":  -0.038599999999999968,
-                         "farol":  "cinza",
+                         "previstoPct":  0.3533,
+                         "realPct":  0.3537,
+                         "desvio":  0.0004,
+                         "farol":  "verde",
                          "dataFim":  "2027-01-28",
                          "mostrar":  true,
                          "capex":  {
@@ -3773,7 +3772,7 @@
                          "previstoPct":  0.65,
                          "realPct":  0.6003,
                          "desvio":  -0.049700000000000077,
-                         "farol":  "vermelho",
+                         "farol":  "amarelo",
                          "dataFim":  "2026-12-25",
                          "mostrar":  true,
                          "capex":  {
@@ -5443,7 +5442,7 @@
                          "previstoPct":  0.1127,
                          "realPct":  0.0648,
                          "desvio":  -0.0479,
-                         "farol":  "vermelho",
+                         "farol":  "amarelo",
                          "dataFim":  "2027-05-25",
                          "mostrar":  true,
                          "capex":  {
@@ -5799,7 +5798,7 @@
                          "previstoPct":  0.1095,
                          "realPct":  0.0609,
                          "desvio":  -0.0486,
-                         "farol":  "vermelho",
+                         "farol":  "amarelo",
                          "dataFim":  "2026-12-31",
                          "mostrar":  true,
                          "capex":  {
@@ -5975,9 +5974,9 @@
                          "ganhos":  "",
                          "dataCapturaCC":  "",
                          "previstoPct":  0.0626,
-                         "realPct":  0.0594,
-                         "desvio":  -0.0032000000000000015,
-                         "farol":  "amarelo",
+                         "realPct":  0.0626,
+                         "desvio":  0,
+                         "farol":  "verde",
                          "dataFim":  "2027-12-23",
                          "mostrar":  true,
                          "capex":  {
@@ -6066,7 +6065,7 @@
                          "previstoPct":  0,
                          "realPct":  0,
                          "desvio":  0,
-                         "farol":  "cinza",
+                         "farol":  "verde",
                          "dataFim":  null,
                          "mostrar":  true,
                          "capex":  {
@@ -6242,9 +6241,9 @@
                          "ganhos":  "",
                          "dataCapturaCC":  "",
                          "previstoPct":  0.051,
-                         "realPct":  0.0349,
-                         "desvio":  -0.016099999999999996,
-                         "farol":  "amarelo",
+                         "realPct":  0.051,
+                         "desvio":  0,
+                         "farol":  "verde",
                          "dataFim":  "2027-05-30",
                          "mostrar":  true,
                          "capex":  {
@@ -6331,9 +6330,9 @@
                          "ganhos":  "",
                          "dataCapturaCC":  "",
                          "previstoPct":  0.0475,
-                         "realPct":  0.0402,
-                         "desvio":  -0.0073000000000000009,
-                         "farol":  "amarelo",
+                         "realPct":  0.0475,
+                         "desvio":  0,
+                         "farol":  "verde",
                          "dataFim":  "2027-06-10",
                          "mostrar":  true,
                          "capex":  {
@@ -6420,9 +6419,9 @@
                          "ganhos":  "",
                          "dataCapturaCC":  "",
                          "previstoPct":  0.0489,
-                         "realPct":  0.0399,
-                         "desvio":  -0.0090000000000000011,
-                         "farol":  "amarelo",
+                         "realPct":  0.0489,
+                         "desvio":  0,
+                         "farol":  "verde",
                          "dataFim":  "2027-08-29",
                          "mostrar":  true,
                          "capex":  {
@@ -6511,7 +6510,7 @@
                          "previstoPct":  0,
                          "realPct":  0,
                          "desvio":  0,
-                         "farol":  "cinza",
+                         "farol":  "verde",
                          "dataFim":  null,
                          "mostrar":  true,
                          "capex":  {
@@ -7632,7 +7631,7 @@
                          "previstoPct":  0,
                          "realPct":  0,
                          "desvio":  0,
-                         "farol":  "cinza",
+                         "farol":  "verde",
                          "dataFim":  "2027-11-30",
                          "mostrar":  true,
                          "capex":  {
