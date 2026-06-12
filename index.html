@@ -134,15 +134,6 @@ html,body{margin:0;padding:0;height:100%;font-family:Calibri,'Segoe UI',Tahoma,A
 body.daltonico .perf-badge.v{background:rgba(0,114,178,.12);color:var(--farol-verde);}
 body.daltonico .perf-badge.a{background:rgba(230,159,0,.18);color:#7a5500;}
 body.daltonico .perf-badge.r{background:rgba(213,94,0,.12);color:var(--farol-vermelho);}
-/* destaque por status (borda esquerda + avatar) */
-.perf-card.status-verde{border-left-color:var(--farol-verde);}
-.perf-card.status-amarelo{border-left-color:var(--farol-amarelo);}
-.perf-card.status-vermelho{border-left-color:var(--farol-vermelho);}
-.perf-card.status-cinza{border-left-color:var(--farol-cinza);}
-.perf-card-avatar.status-verde{background:var(--farol-verde);}
-.perf-card-avatar.status-amarelo{background:var(--farol-amarelo);color:#5A4200;}
-.perf-card-avatar.status-vermelho{background:var(--farol-vermelho);}
-.perf-card-avatar.status-cinza{background:var(--farol-cinza);}
 
 /* MODAL */
 .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.48);z-index:200;display:flex;align-items:center;justify-content:center;padding:20px;opacity:0;transition:opacity .2s;pointer-events:none;}
@@ -792,7 +783,6 @@ function renderPerfGerente(){
   });
   const rows=[...map.entries()].sort((a,b)=>a[0].localeCompare(b[0],'pt-BR'));
   el.innerHTML=rows.map(([g,m])=>{
-    const status=m.vermelho?'vermelho':m.amarelo?'amarelo':m.verde?'verde':'cinza';
     const initials=g.split(/\s+/).filter(Boolean).slice(0,2).map(w=>w[0]).join('').toUpperCase();
     const badges=[
       m.verde?`<span class="perf-badge v">● ${m.verde} no prazo</span>`:'',
@@ -800,8 +790,8 @@ function renderPerfGerente(){
       m.vermelho?`<span class="perf-badge r">● ${m.vermelho} ${m.vermelho>1?'atrasados':'atrasado'}</span>`:'',
     ].filter(Boolean).join('');
     const isActive=S.filters.gerente===g;
-    return`<div class="perf-card status-${status}${isActive?' active':''}" data-gerente="${esc(g)}">
-  <div class="perf-card-top"><span class="perf-card-avatar status-${status}">${esc(initials)}</span><span class="perf-card-name" title="${esc(g)}">${esc(g)}</span></div>
+    return`<div class="perf-card${isActive?' active':''}" data-gerente="${esc(g)}">
+  <div class="perf-card-top"><span class="perf-card-avatar">${esc(initials)}</span><span class="perf-card-name" title="${esc(g)}">${esc(g)}</span></div>
   <div class="perf-card-bottom"><span class="perf-count-lbl">${m.n} projeto${m.n!==1?'s':''}</span>${badges}</div>
 </div>`;
   }).join('');
