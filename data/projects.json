@@ -383,10 +383,10 @@
                                        "dataFimPlan":  "2026-11-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Alteração do termo de abertura;\nElaboração da Especificação técnica;\nCriação e aprovação da RC para contrato do projeto civil.",
-                         "comentarioMensal":  "Alteração do termo de abertura;\nElaboração da Especificação técnica;\nCriação e aprovação da RC para contrato do projeto civil.",
-                         "pontosAtencao":  "Contratação do projeto civil e posteriormente da construtora.\nEm andamento elaboração do cronograma atualizado.",
+                         "justificativaDesvio":  "Atraso no processo de contratação da montadora",
+                         "principaisAtividades":  "Recebidas as propostas técnicas das proponentes, em andamento equalização ténica.",
+                         "comentarioMensal":  "Recebidas as propostas técnicas das proponentes, em andamento equalização ténica.",
+                         "pontosAtencao":  "Follow up semanal com a equipe de suprimentos para acompanhamento da contratação.",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -712,9 +712,9 @@
                                        "dataFimPlan":  "2026-04-23"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Atualização dos documentos e entrega das licenças pendentes.",
-                         "comentarioMensal":  "Atualização dos documentos e entrega das licenças pendentes.",
+                         "justificativaDesvio":  "Atraso na elaboração da documentação de encerramento do projeto",
+                         "principaisAtividades":  "Levamento e elaboração de documentação para encerramento do projeto",
+                         "comentarioMensal":  "Levamento e elaboração de documentação para encerramento do projeto",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -1710,7 +1710,7 @@
                          "justificativaDesvio":  "Atraso devido a montagem não realizada na Parada Geral",
                          "principaisAtividades":  "Elaborações de estratégias para execução do escopo fora de parada geral",
                          "comentarioMensal":  "Elaborações de estratégias para execução do escopo fora de parada geral",
-                         "pontosAtencao":  "Elaboração de novas estratégias",
+                         "pontosAtencao":  "Elaboração de novas estratégias de montagem",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -2116,7 +2116,7 @@
                                        "dataFimPlan":  "2026-04-23"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
+                         "justificativaDesvio":  "Necessário substituir tubulações afetadas pela drenagem rápida da Caldeira",
                          "principaisAtividades":  "Monatgem em campo com previsão de finalização em Junho/26",
                          "comentarioMensal":  "Monatgem em campo com previsão de finalização em Junho/26",
                          "pontosAtencao":  "Atividades impactadas pela Parada da CR2",
@@ -2205,7 +2205,7 @@
                                        "dataFimPlan":  "2026-01-06"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
+                         "justificativaDesvio":  "Atraso na eliminação de pendências",
                          "principaisAtividades":  "Execução de pendências",
                          "comentarioMensal":  "Execução de pendências",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -2534,9 +2534,9 @@
                                        "dataFimPlan":  "2026-12-08"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Realizada solicitação de mudança devido a dois pontos: Indisponibilidade de Sobressalentes (Rotor e Peneira): Por solicitação do Gerente da Linha de Fibras (Sr. Marco Aurélio), as peças destinadas ao Filtro 3FT3F foram cedidas à operação para mitigar riscos de continuidade das máquinas atuais. A reposição desses itens estende o prazo de entrega dos componentes para 31 de agosto de 2026.\n\nSubstituição do Tanque de Rejeitos (366-21-012): Após inspeção do SPIE, constatou-se que a integridade estrutural do tanque atual inviabiliza reparos. Optou-se por reaproveitar dois tanques de menor capacidade da Caustificação (60 m³ por tanque). O custo será equalizado utilizando a verba anteriormente destinada à reforma.\nO projeto irá conseguir tratar até 80% do volume histórico de vazão do efluente que fica em torno de 150 m³.",
-                         "comentarioMensal":  "Realizada solicitação de mudança devido a dois pontos: Indisponibilidade de Sobressalentes (Rotor e Peneira): Por solicitação do Gerente da Linha de Fibras (Sr. Marco Aurélio), as peças destinadas ao Filtro 3FT3F foram cedidas à operação para mitigar riscos de continuidade das máquinas atuais. A reposição desses itens estende o prazo de entrega dos componentes para 31 de agosto de 2026.\n\nSubstituição do Tanque de Rejeitos (366-21-012): Após inspeção do SPIE, constatou-se que a integridade estrutural do tanque atual inviabiliza reparos. Optou-se por reaproveitar dois tanques de menor capacidade da Caustificação (60 m³ por tanque). O custo será equalizado utilizando a verba anteriormente destinada à reforma.\nO projeto irá conseguir tratar até 80% do volume histórico de vazão do efluente que fica em torno de 150 m³.",
+                         "justificativaDesvio":  "Atraso na contratação da montadora pois o valor da proposta está muito acima do disponível.",
+                         "principaisAtividades":  "Acompanhamento semanal com a equipe de suprimentos para emissão de pedido de compras",
+                         "comentarioMensal":  "Acompanhamento semanal com a equipe de suprimentos para emissão de pedido de compras",
                          "pontosAtencao":  "Sem pontos de atenção",
                          "curva":  {
                                        "meses":  [
@@ -2753,7 +2753,7 @@
                                        "dataFimPlan":  "2026-04-28"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
+                         "justificativaDesvio":  "Atraso na eliminação de pendências",
                          "principaisAtividades":  "Execução de pendências",
                          "comentarioMensal":  "Execução de pendências",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -2842,7 +2842,7 @@
                                        "dataFimPlan":  "2026-04-10"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
+                         "justificativaDesvio":  "Atraso na finalização do projeto.",
                          "principaisAtividades":  "Coleta de assinaturas do termo de comissionamento",
                          "comentarioMensal":  "Coleta de assinaturas do termo de comissionamento",
                          "pontosAtencao":  "Aguardando assinatura no termo (Odair Lima)",
@@ -3636,7 +3636,7 @@
                          "justificativaDesvio":  "Atraso devido a saída da empresa de contrato já locada na montagem, sendo necessário nova contratação.",
                          "principaisAtividades":  "Processo de contratação de montadora em andamento",
                          "comentarioMensal":  "Processo de contratação de montadora em andamento",
-                         "pontosAtencao":  "Sem pontos de atenção",
+                         "pontosAtencao":  "Planta de potabilização considerada na lista de estudos de 2026",
                          "curva":  {
                                        "meses":  [
                                                      "2025-12-01",
@@ -4175,9 +4175,9 @@
                                        "dataFimPlan":  null
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
-                         "principaisAtividades":  "Concluído isométrico para realização de um novo desvio para o bypass do poço central (Boska).",
-                         "comentarioMensal":  "Concluído isométrico para realização de um novo desvio para o bypass do poço central (Boska).",
+                         "justificativaDesvio":  "Atraso na finalização do projeto.",
+                         "principaisAtividades":  "Realizada compra de spart parts",
+                         "comentarioMensal":  "Realizada compra de spart parts",
                          "pontosAtencao":  "Solicitado abertura da contingência gerencial para execução dos trabalhos e compra dos equipamentos.",
                          "curva":  {
                                        "meses":  [
@@ -5170,7 +5170,7 @@
                                        "dataFimPlan":  null
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
+                         "justificativaDesvio":  "Atraso na concretagem da laje",
                          "principaisAtividades":  "Montagem do escoramento para concretagem da laje do 2° pavimento​; Montagem de forma e armação das vigas e laje do 2° pavimento​; Concretagem das vigas e laje do 2° pavimento",
                          "comentarioMensal":  "Montagem do escoramento para concretagem da laje do 2° pavimento​; Montagem de forma e armação das vigas e laje do 2° pavimento​; Concretagem das vigas e laje do 2° pavimento",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -5454,7 +5454,7 @@
                                        "dataFimPlan":  "2026-12-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
+                         "justificativaDesvio":  "Atraso na emissão do termo de abertura do projeto e especificação técnica devido a evisão de escopo",
                          "principaisAtividades":  "Emitido termo de abertura, em elaboração de especificação técnica para contratação de montagem.",
                          "comentarioMensal":  "Emitido termo de abertura, em elaboração de especificação técnica para contratação de montagem.",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -6664,7 +6664,7 @@
                                        "dataFimPlan":  "2026-05-05"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Atraso na finalização da documetação do projeto.",
+                         "justificativaDesvio":  "Atraso na finalização da documentação do projeto.",
                          "principaisAtividades":  "Em andamento punchlist, asbuilt e recebimento de data book",
                          "comentarioMensal":  "Em andamento punchlist, asbuilt e recebimento de data book",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -6753,7 +6753,7 @@
                                        "dataFimPlan":  "2026-05-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
+                         "justificativaDesvio":  "Atraso na finalização do projeto.",
                          "principaisAtividades":  "Planilha de comissionamento em processo de coleta de assinaturas",
                          "comentarioMensal":  "Planilha de comissionamento em processo de coleta de assinaturas",
                          "pontosAtencao":  "Sem pontos de atenção",
@@ -7696,7 +7696,7 @@
                                        "dataFimPlan":  "2026-07-01"
                                    },
                          "escopoLongo":  "",
-                         "justificativaDesvio":  "Sem desvios",
+                         "justificativaDesvio":  "Atraso na execução da engenharia.",
                          "principaisAtividades":  "em andamento engenharia básica e detalhada",
                          "comentarioMensal":  "em andamento engenharia básica e detalhada",
                          "pontosAtencao":  "Sem pontos de atenção",
