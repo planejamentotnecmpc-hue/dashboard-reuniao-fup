@@ -118,16 +118,13 @@ html,body{margin:0;padding:0;height:100%;font-family:Calibri,'Segoe UI',Tahoma,A
 .chart-card{background:var(--white);border-radius:10px;box-shadow:0 1px 4px rgba(0,0,0,.07);padding:12px 14px;flex:1;display:flex;flex-direction:column;overflow:hidden;min-height:0;}
 .chart-card h3{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:var(--green-dark);margin:0 0 8px;}
 .chart-wrap{flex:1;min-height:0;position:relative;}
-.perf-table{flex:1;min-height:0;display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(3,1fr);gap:5px;overflow-y:auto;}
-.perf-card{background:var(--gray-bg);border-radius:8px;padding:5px 8px;border:1px solid transparent;transition:border-color .15s,background .15s;cursor:pointer;user-select:none;display:flex;flex-direction:column;justify-content:center;overflow:hidden;}
-.perf-card:hover{border-color:var(--gray-line);}
-.perf-card.active{background:var(--green-50);border-color:var(--green-light);}
-.perf-card-top{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:2px;gap:4px;}
+.perf-table{flex:1;min-height:0;display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(3,1fr);gap:7px;overflow-y:auto;}
+.perf-card{background:var(--white);border-radius:8px;padding:6px 9px;border:1px solid var(--gray-line);border-left:4px solid var(--farol-cinza);box-shadow:0 1px 3px rgba(0,0,0,.07);transition:border-color .15s,background .15s,box-shadow .15s,transform .12s;cursor:pointer;user-select:none;display:flex;flex-direction:column;justify-content:center;gap:3px;overflow:hidden;}
+.perf-card:hover{border-color:var(--green-light);box-shadow:0 3px 10px rgba(0,0,0,.12);transform:translateY(-1px);}
+.perf-card.active{background:var(--green-50);border-color:var(--green-light);box-shadow:0 0 0 2px rgba(46,139,87,.18);}
+.perf-card-top{display:flex;align-items:center;gap:6px;margin-bottom:2px;}
+.perf-card-avatar{width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:8px;font-weight:800;color:#fff;flex-shrink:0;background:var(--farol-cinza);}
 .perf-card-name{font-size:10px;font-weight:700;color:var(--text-dark);overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;min-width:0;line-height:1.25;}
-.perf-card-pct{font-size:11px;font-weight:800;color:var(--green-dark);flex-shrink:0;}
-.perf-card-pct.pos{color:var(--farol-verde);}
-.perf-card-pct.neg{color:var(--farol-vermelho);}
-.perf-card-pct.neutral{color:var(--text-soft);}
 .perf-card-bottom{display:flex;align-items:center;gap:4px;}
 .perf-count-lbl{font-size:9px;color:var(--text-soft);margin-right:auto;}
 .perf-badge{display:inline-flex;align-items:center;gap:2px;font-size:8px;font-weight:700;padding:1px 5px;border-radius:10px;}
@@ -137,6 +134,15 @@ html,body{margin:0;padding:0;height:100%;font-family:Calibri,'Segoe UI',Tahoma,A
 body.daltonico .perf-badge.v{background:rgba(0,114,178,.12);color:var(--farol-verde);}
 body.daltonico .perf-badge.a{background:rgba(230,159,0,.18);color:#7a5500;}
 body.daltonico .perf-badge.r{background:rgba(213,94,0,.12);color:var(--farol-vermelho);}
+/* destaque por status (borda esquerda + avatar) */
+.perf-card.status-verde{border-left-color:var(--farol-verde);}
+.perf-card.status-amarelo{border-left-color:var(--farol-amarelo);}
+.perf-card.status-vermelho{border-left-color:var(--farol-vermelho);}
+.perf-card.status-cinza{border-left-color:var(--farol-cinza);}
+.perf-card-avatar.status-verde{background:var(--farol-verde);}
+.perf-card-avatar.status-amarelo{background:var(--farol-amarelo);color:#5A4200;}
+.perf-card-avatar.status-vermelho{background:var(--farol-vermelho);}
+.perf-card-avatar.status-cinza{background:var(--farol-cinza);}
 
 /* MODAL */
 .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.48);z-index:200;display:flex;align-items:center;justify-content:center;padding:20px;opacity:0;transition:opacity .2s;pointer-events:none;}
@@ -198,12 +204,12 @@ input.editable-field{min-height:unset;resize:none;}
 .modal-horiz-right{padding-left:16px;}
 @media(min-width:1100px){.scurve-wrap{height:200px;}}
 @media(min-width:1700px){
-  .perf-card{padding:8px 12px;}
+  .perf-card{padding:9px 13px;}
+  .perf-card-avatar{width:26px;height:26px;font-size:11px;}
   .perf-card-name{font-size:13px;}
-  .perf-card-pct{font-size:14px;}
   .perf-count-lbl{font-size:11px;}
   .perf-badge{font-size:10px;padding:2px 6px;}
-  .perf-card-top{margin-bottom:4px;}
+  .perf-card-top{margin-bottom:4px;gap:8px;}
 }
 .scurve-note{font-size:11px;color:var(--text-soft);margin:0 0 14px;}
 .fases-chips{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:12px;}
@@ -779,25 +785,23 @@ function renderPerfGerente(){
   S.projects.forEach(p=>{
     const g=p.gerenteDemandante;
     if(!g)return;
-    if(!map.has(g))map.set(g,{n:0,sumReal:0,verde:0,amarelo:0,vermelho:0,cinza:0});
+    if(!map.has(g))map.set(g,{n:0,verde:0,amarelo:0,vermelho:0,cinza:0});
     const m=map.get(g);
-    m.n++;m.sumReal+=(p.realPct||0);
-
+    m.n++;
     m[p.farol||'cinza']=(m[p.farol||'cinza']||0)+1;
   });
   const rows=[...map.entries()].sort((a,b)=>a[0].localeCompare(b[0],'pt-BR'));
   el.innerHTML=rows.map(([g,m])=>{
-    const avg=m.n?m.sumReal/m.n*100:0;
-    const barW=Math.min(avg,100).toFixed(1);
-
+    const status=m.vermelho?'vermelho':m.amarelo?'amarelo':m.verde?'verde':'cinza';
+    const initials=g.split(/\s+/).filter(Boolean).slice(0,2).map(w=>w[0]).join('').toUpperCase();
     const badges=[
       m.verde?`<span class="perf-badge v">● ${m.verde} no prazo</span>`:'',
       m.amarelo?`<span class="perf-badge a">● ${m.amarelo} atenção</span>`:'',
       m.vermelho?`<span class="perf-badge r">● ${m.vermelho} ${m.vermelho>1?'atrasados':'atrasado'}</span>`:'',
     ].filter(Boolean).join('');
     const isActive=S.filters.gerente===g;
-    return`<div class="perf-card${isActive?' active':''}" data-gerente="${esc(g)}">
-  <div class="perf-card-top"><span class="perf-card-name" title="${esc(g)}">${esc(g)}</span></div>
+    return`<div class="perf-card status-${status}${isActive?' active':''}" data-gerente="${esc(g)}">
+  <div class="perf-card-top"><span class="perf-card-avatar status-${status}">${esc(initials)}</span><span class="perf-card-name" title="${esc(g)}">${esc(g)}</span></div>
   <div class="perf-card-bottom"><span class="perf-count-lbl">${m.n} projeto${m.n!==1?'s':''}</span>${badges}</div>
 </div>`;
   }).join('');
