@@ -62,7 +62,7 @@
                          "realPct":  1,
                          "desvio":  0,
                          "farol":  "verde",
-                         "dataFim":  "2026-06-05",
+                         "dataFim":  "2026-03-04",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -195,7 +195,7 @@
                          "realPct":  0.4,
                          "desvio":  0,
                          "farol":  "verde",
-                         "dataFim":  "2026-12-08",
+                         "dataFim":  "2026-12-31",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -284,7 +284,7 @@
                          "realPct":  0.488,
                          "desvio":  0.091399999999999981,
                          "farol":  "verde",
-                         "dataFim":  "2026-10-13",
+                         "dataFim":  "2026-11-26",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -373,7 +373,7 @@
                          "realPct":  0.2468,
                          "desvio":  -0.025900000000000006,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-12-22",
+                         "dataFim":  "2026-12-10",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -462,7 +462,7 @@
                          "realPct":  0.8585,
                          "desvio":  0.0035000000000000586,
                          "farol":  "verde",
-                         "dataFim":  "2026-10-05",
+                         "dataFim":  "2026-10-12",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -551,7 +551,7 @@
                          "realPct":  0.9444,
                          "desvio":  -0.055599999999999983,
                          "farol":  "vermelho",
-                         "dataFim":  "2026-06-19",
+                         "dataFim":  "2026-04-24",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -702,7 +702,7 @@
                          "realPct":  0.9961,
                          "desvio":  -0.0039000000000000146,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-07-02",
+                         "dataFim":  "2026-04-23",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -791,7 +791,7 @@
                          "realPct":  0.9918,
                          "desvio":  -0.0081999999999999851,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-07-09",
+                         "dataFim":  "2026-03-10",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -924,7 +924,7 @@
                          "realPct":  0.9827,
                          "desvio":  -0.012399999999999967,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-08-14",
+                         "dataFim":  "2026-07-17",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -1075,7 +1075,7 @@
                          "realPct":  0.9918,
                          "desvio":  -0.0081999999999999851,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-07-01",
+                         "dataFim":  "2026-04-28",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -1226,7 +1226,7 @@
                          "realPct":  0.9691,
                          "desvio":  -0.030900000000000039,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-07-07",
+                         "dataFim":  "2026-03-31",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -1413,7 +1413,7 @@
                          "realPct":  0.9284,
                          "desvio":  -0.069899999999999962,
                          "farol":  "vermelho",
-                         "dataFim":  "2026-08-25",
+                         "dataFim":  "2026-06-09",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -1555,7 +1555,7 @@
                          "realPct":  0.995,
                          "desvio":  -0.0050000000000000044,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-05-29",
+                         "dataFim":  "2026-05-22",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -1786,7 +1786,7 @@
                          "realPct":  0.9752,
                          "desvio":  0.29769999999999996,
                          "farol":  "verde",
-                         "dataFim":  "2026-06-18",
+                         "dataFim":  "2026-09-11",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -1875,7 +1875,7 @@
                          "realPct":  0.9998,
                          "desvio":  -0.00019999999999997797,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-05-30",
+                         "dataFim":  "2026-05-27",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -2017,7 +2017,7 @@
                          "realPct":  0.9,
                          "desvio":  -0.0363,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-11-26",
+                         "dataFim":  "2026-09-18",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -2106,7 +2106,7 @@
                          "realPct":  0.9276,
                          "desvio":  -0.0655,
                          "farol":  "vermelho",
-                         "dataFim":  "2026-06-12",
+                         "dataFim":  "2026-06-30",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -2195,7 +2195,7 @@
                          "realPct":  0.995,
                          "desvio":  -0.0050000000000000044,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-06-11",
+                         "dataFim":  "2026-02-23",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -2346,7 +2346,7 @@
                          "realPct":  0.0705,
                          "desvio":  -0.0010000000000000009,
                          "farol":  "amarelo",
-                         "dataFim":  "2028-04-12",
+                         "dataFim":  "2028-04-03",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -2435,7 +2435,7 @@
                          "realPct":  0.845,
                          "desvio":  -0.15500000000000003,
                          "farol":  "vermelho",
-                         "dataFim":  "2026-07-27",
+                         "dataFim":  "2026-05-11",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -2743,7 +2743,7 @@
                          "realPct":  0.995,
                          "desvio":  -0.0050000000000000044,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-06-25",
+                         "dataFim":  "2026-04-28",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -2832,7 +2832,7 @@
                          "realPct":  0.9941,
                          "desvio":  -0.00070000000000003393,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-07-31",
+                         "dataFim":  "2026-06-11",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -2921,7 +2921,7 @@
                          "realPct":  0.9456,
                          "desvio":  -0.054400000000000004,
                          "farol":  "vermelho",
-                         "dataFim":  "2027-04-27",
+                         "dataFim":  "2026-04-22",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -3063,7 +3063,7 @@
                          "realPct":  0.9814,
                          "desvio":  -0.01859999999999995,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-06-29",
+                         "dataFim":  "2026-05-26",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -3214,7 +3214,7 @@
                          "realPct":  0.9075,
                          "desvio":  0,
                          "farol":  "verde",
-                         "dataFim":  "2026-11-10",
+                         "dataFim":  "2026-12-30",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -3303,7 +3303,7 @@
                          "realPct":  0.6051,
                          "desvio":  -0.3549,
                          "farol":  "vermelho",
-                         "dataFim":  "2026-12-20",
+                         "dataFim":  "2026-07-24",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -3623,7 +3623,7 @@
                          "realPct":  0.845,
                          "desvio":  -0.020000000000000018,
                          "farol":  "amarelo",
-                         "dataFim":  "2027-01-08",
+                         "dataFim":  "2026-11-20",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -3774,7 +3774,7 @@
                          "realPct":  0.6003,
                          "desvio":  -0.049700000000000077,
                          "farol":  "vermelho",
-                         "dataFim":  "2026-12-29",
+                         "dataFim":  "2026-12-25",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -3863,7 +3863,7 @@
                          "realPct":  0.9976,
                          "desvio":  0.0060999999999999943,
                          "farol":  "verde",
-                         "dataFim":  "2026-06-15",
+                         "dataFim":  "2026-06-29",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -4014,7 +4014,7 @@
                          "realPct":  0.29,
                          "desvio":  -0.15450000000000003,
                          "farol":  "vermelho",
-                         "dataFim":  "2026-12-31",
+                         "dataFim":  "2026-10-13",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -4165,7 +4165,7 @@
                          "realPct":  0.9937,
                          "desvio":  -0.0062999999999999723,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-12-21",
+                         "dataFim":  "2026-05-11",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -4218,7 +4218,7 @@
                          "realPct":  1,
                          "desvio":  0,
                          "farol":  "verde",
-                         "dataFim":  "2026-05-30",
+                         "dataFim":  "2026-02-16",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -4307,7 +4307,7 @@
                          "realPct":  0.5765,
                          "desvio":  -0.4235,
                          "farol":  "vermelho",
-                         "dataFim":  "2026-07-16",
+                         "dataFim":  "2025-09-30",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -4396,7 +4396,7 @@
                          "realPct":  0.9825,
                          "desvio":  -0.017399999999999971,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-07-15",
+                         "dataFim":  "2026-06-01",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -4574,7 +4574,7 @@
                          "realPct":  1,
                          "desvio":  0,
                          "farol":  "verde",
-                         "dataFim":  "2026-05-30",
+                         "dataFim":  "2026-04-30",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -4716,7 +4716,7 @@
                          "realPct":  0.8502,
                          "desvio":  -0.08120000000000005,
                          "farol":  "vermelho",
-                         "dataFim":  "2027-01-11",
+                         "dataFim":  "2026-09-30",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -4858,7 +4858,7 @@
                          "realPct":  1,
                          "desvio":  0,
                          "farol":  "verde",
-                         "dataFim":  "2026-05-30",
+                         "dataFim":  "2026-02-27",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -5009,7 +5009,7 @@
                          "realPct":  0.9975,
                          "desvio":  -0.0024999999999999467,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-05-30",
+                         "dataFim":  "2026-03-18",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  100000,
@@ -5160,7 +5160,7 @@
                          "realPct":  0.301,
                          "desvio":  -0.006,
                          "farol":  "amarelo",
-                         "dataFim":  "2027-01-30",
+                         "dataFim":  "2027-01-25",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -5302,7 +5302,7 @@
                          "realPct":  0.4024,
                          "desvio":  0.0473,
                          "farol":  "verde",
-                         "dataFim":  "2027-01-30",
+                         "dataFim":  "2027-02-23",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -5355,7 +5355,7 @@
                          "realPct":  0.05,
                          "desvio":  -0.022499999999999992,
                          "farol":  "amarelo",
-                         "dataFim":  "2027-08-29",
+                         "dataFim":  "2027-06-27",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -5444,7 +5444,7 @@
                          "realPct":  0.0648,
                          "desvio":  -0.0479,
                          "farol":  "vermelho",
-                         "dataFim":  "2027-06-27",
+                         "dataFim":  "2027-05-25",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -5800,7 +5800,7 @@
                          "realPct":  0.0609,
                          "desvio":  -0.0486,
                          "farol":  "vermelho",
-                         "dataFim":  "2027-01-18",
+                         "dataFim":  "2026-12-31",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -5889,7 +5889,7 @@
                          "realPct":  0.1369,
                          "desvio":  0.045099999999999987,
                          "farol":  "verde",
-                         "dataFim":  "2027-04-29",
+                         "dataFim":  "2027-06-03",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -5978,7 +5978,7 @@
                          "realPct":  0.0594,
                          "desvio":  -0.0032000000000000015,
                          "farol":  "amarelo",
-                         "dataFim":  "2028-01-05",
+                         "dataFim":  "2027-12-23",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -6245,7 +6245,7 @@
                          "realPct":  0.0349,
                          "desvio":  -0.016099999999999996,
                          "farol":  "amarelo",
-                         "dataFim":  "2027-06-27",
+                         "dataFim":  "2027-05-30",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -6565,7 +6565,7 @@
                          "realPct":  0.09,
                          "desvio":  0.011999999999999997,
                          "farol":  "verde",
-                         "dataFim":  "2027-09-08",
+                         "dataFim":  "2027-09-10",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -6654,7 +6654,7 @@
                          "realPct":  0.9786,
                          "desvio":  -0.021399999999999975,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-06-22",
+                         "dataFim":  "2026-04-10",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -6743,7 +6743,7 @@
                          "realPct":  0.993,
                          "desvio":  -0.0050999999999999934,
                          "farol":  "amarelo",
-                         "dataFim":  "2026-06-24",
+                         "dataFim":  "2026-06-03",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -7775,7 +7775,7 @@
                          "realPct":  0.8825,
                          "desvio":  -0.11750000000000005,
                          "farol":  "vermelho",
-                         "dataFim":  "2026-06-02",
+                         "dataFim":  "2025-10-31",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
@@ -7864,7 +7864,7 @@
                          "realPct":  0.0539,
                          "desvio":  0.0060000000000000053,
                          "farol":  "verde",
-                         "dataFim":  "2028-01-03",
+                         "dataFim":  "2027-12-22",
                          "mostrar":  true,
                          "capex":  {
                                        "baseline":  null,
